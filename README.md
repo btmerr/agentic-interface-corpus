@@ -1,6 +1,8 @@
 # Agentic & AI interface corpus
 
-Durable, searchable archive of Brian Merritt’s weekday **Agentic & AI interface** briefs (coding-harness / agent UX focus).
+**Live on GitHub:** https://github.com/btmerr/agentic-interface-corpus
+
+Curated archive of Brian Merritt’s weekday **Agentic & AI interface** briefs (coding-harness / agent UX focus). Updated automatically after each weekday morning brief.
 
 ## Layout
 
