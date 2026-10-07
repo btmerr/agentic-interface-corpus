@@ -1,6 +1,6 @@
 # Corpus index (by tag)
 
-_Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 122 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
 
@@ -200,9 +200,19 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - **Session Control — Agent Surface guide** [medium] — https://agentsurface.dev/docs/agentic-ui/session-control
 - **Emerging Agency-Aware Interface Patterns in AI-in-the-Loo…** [low-medium] — https://dl.acm.org/doi/10.1145/3776591.3832499
 
+### 2026-10-07
+*Theme: The approval click is the weakest link: correct warnings get dismissed, unchecked evidence inflates false alarms, and m…*
+
+- **Coding with "Enemy": Can Human Developers Detect AI Agent…** [high] — https://arxiv.org/abs/2606.05647
+- **Let the Agent Do It? Permission decisions in agentic AI a…** [high] — https://arxiv.org/abs/2610.06047
+- **Groundability, Not Scale Alone: When Weak Reviewers Can A…** [high] — https://arxiv.org/abs/2610.01023
+- **ACP Session Notices RFD (Preview)** [medium-high] — https://agentclientprotocol.com/rfds/session-notices
+- **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
+- **A Case Study in Assuring AI-Written Software (arXiv 2610.…** [medium] — https://arxiv.org/abs/2610.08651
+
 ## By tag
 
-### `approval` (72)
+### `approval` (74)
 - 2026-09-07: **Agents Need Supervision Surfaces** [high] — https://blakecrosley.com/blog/agents-need-supervision-surfaces
 - 2026-09-07: **Anatomy of a harness** [high] — https://mastra.ai/blog/anatomy-of-a-coding-agent
 - 2026-09-07: **The Agent Interface Is the Harness** [medium-high] — https://blakecrosley.com/blog/agent-interface-is-the-harness
@@ -275,6 +285,8 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-05: **ContrAgent: Symbolic Temporal Supervision of LLM Agents (arXiv 2609.18128)** [medium] — https://arxiv.org/abs/2609.18128
 - 2026-10-06: **Codex Auto-review (Guardian): swap the reviewer, not the permissions** [high] — https://developers.openai.com/codex/concepts/sandboxing/auto-review
 - 2026-10-06: **Session Control — Agent Surface guide** [medium] — https://agentsurface.dev/docs/agentic-ui/session-control
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
+- 2026-10-07: **Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)** [high] — https://arxiv.org/abs/2610.06047
 
 ### `plan` (40)
 - 2026-09-07: **Anatomy of a harness** [high] — https://mastra.ai/blog/anatomy-of-a-coding-agent
@@ -318,7 +330,7 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-02: **Plan-first enforcement — go-steer/core-agent** [high] — https://github.com/go-steer/core-agent/blob/main/docs/plan-first-design.md
 - 2026-10-02: **PlanGate** [medium] — https://github.com/s977043/PlanGate
 
-### `harness` (84)
+### `harness` (86)
 - 2026-09-07: **Agents Need Supervision Surfaces** [high] — https://blakecrosley.com/blog/agents-need-supervision-surfaces
 - 2026-09-07: **AI Agent UI Design Patterns** [medium] — https://brainy.ink/paper/ai-agent-ui-design-patterns
 - 2026-09-07: **Anatomy of a harness** [high] — https://mastra.ai/blog/anatomy-of-a-coding-agent
@@ -403,8 +415,10 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-05: **ContrAgent: Symbolic Temporal Supervision of LLM Agents (arXiv 2609.18128)** [medium] — https://arxiv.org/abs/2609.18128
 - 2026-10-06: **Codex Auto-review (Guardian): swap the reviewer, not the permissions** [high] — https://developers.openai.com/codex/concepts/sandboxing/auto-review
 - 2026-10-06: **Session Control — Agent Surface guide** [medium] — https://agentsurface.dev/docs/agentic-ui/session-control
+- 2026-10-07: **Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)** [high] — https://arxiv.org/abs/2610.01023
+- 2026-10-07: **A Case Study in Assuring AI-Written Software (arXiv 2610.08651)** [medium] — https://arxiv.org/abs/2610.08651
 
-### `fleet` (33)
+### `fleet` (34)
 - 2026-09-07: **The `codex agents` Dashboard** [medium] — https://codex.danielvaughan.com/2026/08/31/codex-agents-dashboard-v0149-multi-agent-session-management/
 - 2026-09-09: **Agent Teams** [medium] — https://agentsroom.dev/features/teams
 - 2026-09-09: **Agent Think Map** [medium-high] — https://github.com/nimrodfisher/agent-think-map
@@ -438,6 +452,7 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-01: **Lakitu — Claude Code fleet cockpit** [medium] — https://github.com/dac2k9/lakitu
 - 2026-10-05: **ACP subagents RFD (merged 2026-09-30)** [high] — https://github.com/agentclientprotocol/agent-client-protocol/pull/1992
 - 2026-10-06: **JetBrains Air in IDEs (EAP)** [medium-high] — https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/
+- 2026-10-07: **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
 
 ### `canvas` (30)
 - 2026-09-08: **Agent Flow** [medium-high] — https://github.com/patoles/agent-flow
@@ -471,7 +486,7 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-09-29: **Plover: Steering GUI Agents through Plan-Centric Interaction** [medium-high] — https://arxiv.org/abs/2607.15193
 - 2026-10-01: **Cockpit — one row per change** [medium-high] — https://github.com/khivi/cockpit
 
-### `interrupt` (23)
+### `interrupt` (24)
 - 2026-09-07: **Anatomy of a harness** [high] — https://mastra.ai/blog/anatomy-of-a-coding-agent
 - 2026-09-07: **The `codex agents` Dashboard** [medium] — https://codex.danielvaughan.com/2026/08/31/codex-agents-dashboard-v0149-multi-agent-session-management/
 - 2026-09-08: **AI Action Review Pattern** [medium-high] — https://uipotion.com/potions/patterns/ai-action-review
@@ -495,8 +510,9 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-09-30: **Everything Is a Stream — Ante serve wire protocol** [medium-high] — https://antigma.ai/blog/2026/09/21/everything-is-a-stream
 - 2026-10-01: **Approval Gates — Helix Agents** [medium-high] — https://agents.open-source.onhelix.ai/guide/approval-gates
 - 2026-10-02: **Plan Mode & Approvals — agent-desktop** [medium-high] — https://www.agent-desktop.wiki/page.php?p=13-plan-mode
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
 
-### `protocol` (23)
+### `protocol` (24)
 - 2026-09-14: **Harnss** [medium-high] — https://github.com/OpenSource03/harnss
 - 2026-09-14: **OpenHands Agent Canvas** [high] — https://www.openhands.dev/product/canvas
 - 2026-09-15: **TanStack AI — Tool Approval interrupts** [high] — https://tanstack.com/ai/latest/docs/interrupts/tool-approval
@@ -520,6 +536,7 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-02: **Modern Agent Harness Blueprint 2026** [medium] — https://gist.github.com/amazingvince/52158d00fb8b3ba1b8476bc62bb562e3
 - 2026-10-05: **ACP subagents RFD (merged 2026-09-30)** [high] — https://github.com/agentclientprotocol/agent-client-protocol/pull/1992
 - 2026-10-05: **ContrAgent: Symbolic Temporal Supervision of LLM Agents (arXiv 2609.18128)** [medium] — https://arxiv.org/abs/2609.18128
+- 2026-10-07: **ACP Session Notices RFD (Preview)** [medium-high] — https://agentclientprotocol.com/rfds/session-notices
 
 ### `trace` (23)
 - 2026-09-07: **Agents Need Supervision Surfaces** [high] — https://blakecrosley.com/blog/agents-need-supervision-surfaces
@@ -546,7 +563,7 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-09-30: **control-surface-agent — operator console for supervised decisions** [medium] — https://github.com/cloudpresser/control-surface-agent
 - 2026-10-01: **The Control-Surface Band — Architecting Autonomy** [medium-high] — https://awslabs.dev/architecting-autonomy/control-surface-band/
 
-### `pattern` (36)
+### `pattern` (37)
 - 2026-09-07: **AI Agent UI Design Patterns** [medium] — https://brainy.ink/paper/ai-agent-ui-design-patterns
 - 2026-09-08: **AI Action Review Pattern** [medium-high] — https://uipotion.com/potions/patterns/ai-action-review
 - 2026-09-08: **Building a human-in-the-loop approval queue** [high] — https://theagentpractice.com/blog/ai-agent-approval-queue-pattern
@@ -583,8 +600,9 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-02: **Modern Agent Harness Blueprint 2026** [medium] — https://gist.github.com/amazingvince/52158d00fb8b3ba1b8476bc62bb562e3
 - 2026-10-05: **diffthing — local-first ledger review for agent diffs** [high] — https://github.com/rahXephonz/diffthing
 - 2026-10-05: **Trust-Calibrated Code Review (arXiv 2606.01969)** [high] — https://arxiv.org/abs/2606.01969
+- 2026-10-07: **Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)** [high] — https://arxiv.org/abs/2610.06047
 
-### `oss` (26)
+### `oss` (27)
 - 2026-09-08: **Agent Flow** [medium-high] — https://github.com/patoles/agent-flow
 - 2026-09-08: **cctrace** [medium] — https://github.com/thevibeworks/cctrace
 - 2026-09-09: **Agent Think Map** [medium-high] — https://github.com/nimrodfisher/agent-think-map
@@ -611,8 +629,9 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-02: **Plan-first enforcement — go-steer/core-agent** [high] — https://github.com/go-steer/core-agent/blob/main/docs/plan-first-design.md
 - 2026-10-02: **PlanGate** [medium] — https://github.com/s977043/PlanGate
 - 2026-10-05: **diffthing — local-first ledger review for agent diffs** [high] — https://github.com/rahXephonz/diffthing
+- 2026-10-07: **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
 
-### `research` (19)
+### `research` (23)
 - 2026-09-15: **Harness Engineering: Anatomy of Coding Agents (arXiv 2609.00006)** [high] — https://arxiv.org/abs/2609.00006
 - 2026-09-23: **AgentClick** [medium] — https://zhmzm.github.io/agentclick/
 - 2026-09-23: **AgentGUI (ETH) — arXiv 2607.26300** [medium-high] — https://arxiv.org/html/2607.26300v2
@@ -632,6 +651,10 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-06: **Graphectory Viewer: process-centric agent trajectory graphs (arXiv 2608.17195, ASE '26 tool)** [medium-high] — https://arxiv.org/abs/2608.17195
 - 2026-10-06: **Agent ATO: interaction-timeline lanes from coding-agent logs (arXiv 2609.08301)** [medium] — https://arxiv.org/abs/2609.08301
 - 2026-10-06: **Emerging Agency-Aware Interface Patterns in AI-in-the-Loop Platforms (ICMI '26 Companion)** [low-medium] — https://dl.acm.org/doi/10.1145/3776591.3832499
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
+- 2026-10-07: **Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)** [high] — https://arxiv.org/abs/2610.06047
+- 2026-10-07: **Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)** [high] — https://arxiv.org/abs/2610.01023
+- 2026-10-07: **A Case Study in Assuring AI-Written Software (arXiv 2610.08651)** [medium] — https://arxiv.org/abs/2610.08651
 
 ### `vendor` (10)
 - 2026-09-10: **Agent mode and Plan mode — CoCo Desktop** [high] — https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code-desktop/agent-mode-and-plan-mode
@@ -645,13 +668,15 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-09-28: **Approve coding-agent risky commands from your phone (Agentic Control Plane)** [medium-high] — https://agenticcontrolplane.com/blog/approve-coding-agent-commands-from-your-phone
 - 2026-09-30: **Everything Is a Stream — Ante serve wire protocol** [medium-high] — https://antigma.ai/blog/2026/09/21/everything-is-a-stream
 
-### `eval` (6)
+### `eval` (8)
 - 2026-09-15: **Harness Engineering: Anatomy of Coding Agents (arXiv 2609.00006)** [high] — https://arxiv.org/abs/2609.00006
 - 2026-09-17: **EvoGenUI-Bench / DeepSeek Harness GenUI (arXiv 2608.29387)** [high] — https://arxiv.org/abs/2608.29387
 - 2026-09-21: **An Empirical Study of Harness Design for Coding Agents (arXiv 2609.20804)** [high] — https://arxiv.org/abs/2609.20804
 - 2026-09-29: **A Deterministic Control Plane for LLM Coding Agents (Rel(AI)Build)** [medium-high] — https://arxiv.org/abs/2606.26924
 - 2026-09-30: **Agentic Harness Engineering (AHE)** [high] — https://arxiv.org/abs/2604.25850
 - 2026-10-01: **Steerability via constraints (arXiv 2607.02389)** [high] — https://arxiv.org/abs/2607.02389
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
+- 2026-10-07: **Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)** [high] — https://arxiv.org/abs/2610.01023
 
 ### `genui` (4)
 - 2026-09-17: **EvoGenUI-Bench / DeepSeek Harness GenUI (arXiv 2608.29387)** [high] — https://arxiv.org/abs/2608.29387
@@ -665,9 +690,10 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-06: **Codex Auto-review (Guardian): swap the reviewer, not the permissions** [high] — https://developers.openai.com/codex/concepts/sandboxing/auto-review
 - 2026-10-06: **JetBrains Air in IDEs (EAP)** [medium-high] — https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/
 
-### `acp` (2)
+### `acp` (3)
 - 2026-10-05: **ACP subagents RFD (merged 2026-09-30)** [high] — https://github.com/agentclientprotocol/agent-client-protocol/pull/1992
 - 2026-10-06: **JetBrains Air in IDEs (EAP)** [medium-high] — https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/
+- 2026-10-07: **ACP Session Notices RFD (Preview)** [medium-high] — https://agentclientprotocol.com/rfds/session-notices
 
 ### `diff` (3)
 - 2026-10-05: **diffthing — local-first ledger review for agent diffs** [high] — https://github.com/rahXephonz/diffthing
@@ -677,10 +703,12 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `extensibility` (1)
 - 2026-10-05: **Claude Code 2.1.287–2.1.289: Claude Mods + 'You should know' side agent** [medium-high] — https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
 
-### `review` (3)
+### `review` (5)
 - 2026-10-05: **diffthing — local-first ledger review for agent diffs** [high] — https://github.com/rahXephonz/diffthing
 - 2026-10-05: **Trust-Calibrated Code Review (arXiv 2606.01969)** [high] — https://arxiv.org/abs/2606.01969
 - 2026-10-05: **ARCTIC: Intent, Drift, and Spotlight for AI-Generated Diffs (arXiv 2607.29516)** [medium-high] — https://arxiv.org/abs/2607.29516
+- 2026-10-07: **Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)** [high] — https://arxiv.org/abs/2610.01023
+- 2026-10-07: **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
 
 ### `subagents` (1)
 - 2026-10-05: **ACP subagents RFD (merged 2026-09-30)** [high] — https://github.com/agentclientprotocol/agent-client-protocol/pull/1992
@@ -691,8 +719,9 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 - 2026-10-06: **Session Control — Agent Surface guide** [medium] — https://agentsurface.dev/docs/agentic-ui/session-control
 - 2026-10-06: **Emerging Agency-Aware Interface Patterns in AI-in-the-Loop Platforms (ICMI '26 Companion)** [low-medium] — https://dl.acm.org/doi/10.1145/3776591.3832499
 
-### `tui` (1)
+### `tui` (2)
 - 2026-10-05: **Claude Code 2.1.287–2.1.289: Claude Mods + 'You should know' side agent** [medium-high] — https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+- 2026-10-07: **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
 
 ### `ide` (1)
 - 2026-10-06: **JetBrains Air in IDEs (EAP)** [medium-high] — https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/
@@ -712,3 +741,32 @@ _Generated from 116 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `patterns` (2)
 - 2026-10-06: **Session Control — Agent Surface guide** [medium] — https://agentsurface.dev/docs/agentic-ui/session-control
 - 2026-10-06: **Emerging Agency-Aware Interface Patterns in AI-in-the-Loop Platforms (ICMI '26 Companion)** [low-medium] — https://dl.acm.org/doi/10.1145/3776591.3832499
+### `monitor` (2)
+
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
+- 2026-10-07: **A Case Study in Assuring AI-Written Software (arXiv 2610.08651)** [medium] — https://arxiv.org/abs/2610.08651
+
+### `trust` (1)
+
+- 2026-10-07: **Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)** [high] — https://arxiv.org/abs/2606.05647
+
+### `permission` (1)
+
+- 2026-10-07: **Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)** [high] — https://arxiv.org/abs/2610.06047
+
+### `evidence` (1)
+
+- 2026-10-07: **Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)** [high] — https://arxiv.org/abs/2610.01023
+
+### `notice` (1)
+
+- 2026-10-07: **ACP Session Notices RFD (Preview)** [medium-high] — https://agentclientprotocol.com/rfds/session-notices
+
+### `status` (2)
+
+- 2026-10-07: **ACP Session Notices RFD (Preview)** [medium-high] — https://agentclientprotocol.com/rfds/session-notices
+- 2026-10-07: **agent-manager: ten coding agents in one TUI** [medium] — https://heyaican.com/en/projects/agent-manager/
+
+### `governance` (1)
+
+- 2026-10-07: **A Case Study in Assuring AI-Written Software (arXiv 2610.08651)** [medium] — https://arxiv.org/abs/2610.08651
