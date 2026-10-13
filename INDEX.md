@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 141 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-13
+- [Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
+- [Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
+- [Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
+- [(When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
+- [ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
 
 ### 2026-10-12
 - [Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
@@ -190,6 +199,8 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: ACP subagents RFD (merged 2026-09-30)](https://github.com/agentclientprotocol/agent-client-protocol/pull/1992)
 - [2026-10-06: JetBrains Air in IDEs (EAP)](https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/)
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
+- [2026-10-13: ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
 
 ### `approval`
 - [2026-09-07: Agents Need Supervision Surfaces](https://blakecrosley.com/blog/agents-need-supervision-surfaces)
@@ -272,6 +283,8 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
 - [2026-10-12: Cloudflare Agents Codemode: approvals via abort-and-replay](https://github.com/cloudflare/agents/blob/HEAD/docs/codemode/approvals.md)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
+- [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 
 ### `attention`
 - [2026-10-09: A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
@@ -279,6 +292,8 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `binding`
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [2026-10-12: Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
+- [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 
 ### `canvas`
 - [2026-09-08: Agent Flow](https://github.com/patoles/agent-flow)
@@ -320,6 +335,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: Trust-Calibrated Code Review (arXiv 2606.01969)](https://arxiv.org/abs/2606.01969)
 - [2026-10-05: ARCTIC: Intent, Drift, and Spotlight for AI-Generated Diffs (arXiv 2607.29516)](https://arxiv.org/abs/2607.29516)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
+- [2026-10-13: (When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
 
 ### `digest`
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
@@ -333,12 +349,19 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-01: Steerability via constraints (arXiv 2607.02389)](https://arxiv.org/abs/2607.02389)
 - [2026-10-07: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)](https://arxiv.org/abs/2606.05647)
 - [2026-10-07: Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)](https://arxiv.org/abs/2610.01023)
+- [2026-10-13: (When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
 
 ### `evidence`
 - [2026-10-07: Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)](https://arxiv.org/abs/2610.01023)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
+- [2026-10-13: Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
 
 ### `extensibility`
 - [2026-10-05: Claude Code 2.1.287–2.1.289: Claude Mods + 'You should know' side agent](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
+- [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
 
 ### `fail-closed`
 - [2026-10-09: Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
@@ -388,6 +411,8 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-09: Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [2026-10-13: (When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
 
 ### `genui`
 - [2026-09-17: EvoGenUI-Bench / DeepSeek Harness GenUI (arXiv 2608.29387)](https://arxiv.org/abs/2608.29387)
@@ -490,10 +515,14 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
 
 ### `hooks`
 - [2026-10-09: Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 
 ### `ide`
 - [2026-10-06: JetBrains Air in IDEs (EAP)](https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/)
@@ -530,16 +559,20 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `monitor`
 - [2026-10-07: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage? (arXiv 2606.05647)](https://arxiv.org/abs/2606.05647)
 - [2026-10-07: A Case Study in Assuring AI-Written Software (arXiv 2610.08651)](https://arxiv.org/abs/2610.08651)
+- [2026-10-13: Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
 
 ### `notice`
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
+- [2026-10-13: ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
 
 ### `observability`
 - [2026-10-06: Graphectory Viewer: process-centric agent trajectory graphs (arXiv 2608.17195, ASE '26 tool)](https://arxiv.org/abs/2608.17195)
 - [2026-10-06: Agent ATO: interaction-timeline lanes from coding-agent logs (arXiv 2609.08301)](https://arxiv.org/abs/2609.08301)
+- [2026-10-13: Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
 
 ### `orchestration`
 - [2026-10-12: Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
 
 ### `oss`
 - [2026-09-08: Agent Flow](https://github.com/patoles/agent-flow)
@@ -612,6 +645,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: diffthing — local-first ledger review for agent diffs](https://github.com/rahXephonz/diffthing)
 - [2026-10-05: Trust-Calibrated Code Review (arXiv 2606.01969)](https://arxiv.org/abs/2606.01969)
 - [2026-10-07: Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)](https://arxiv.org/abs/2610.06047)
+- [2026-10-13: Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
 
 ### `patterns`
 - [2026-10-06: Session Control — Agent Surface guide](https://agentsurface.dev/docs/agentic-ui/session-control)
@@ -623,6 +657,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `permissions`
 - [2026-10-09: Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 
 ### `pipeline`
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
@@ -670,6 +705,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-02: PlanGate](https://github.com/s977043/PlanGate)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
 
 ### `practice`
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
@@ -684,6 +720,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-12: Cloudflare Agents Codemode: approvals via abort-and-replay](https://github.com/cloudflare/agents/blob/HEAD/docs/codemode/approvals.md)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
+- [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 
 ### `protocol`
 - [2026-09-14: Harnss](https://github.com/OpenSource03/harnss)
@@ -712,6 +749,10 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
 - [2026-10-09: A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
+- [2026-10-13: ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
+
+### `provenance`
+- [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
 
 ### `race`
 - [2026-10-12: Cloudflare Agents Codemode: approvals via abort-and-replay](https://github.com/cloudflare/agents/blob/HEAD/docs/codemode/approvals.md)
@@ -756,10 +797,14 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: ARCTIC: Intent, Drift, and Spotlight for AI-Generated Diffs (arXiv 2607.29516)](https://arxiv.org/abs/2607.29516)
 - [2026-10-07: Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents (arXiv 2610.01023)](https://arxiv.org/abs/2610.01023)
 - [2026-10-07: agent-manager: ten coding agents in one TUI](https://heyaican.com/en/projects/agent-manager/)
+- [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
+- [2026-10-13: (When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
 
 ### `security`
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [2026-10-12: Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
+- [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
+- [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
 
 ### `status`
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
@@ -808,6 +853,7 @@ _Generated from 134 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-09-30: Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)
 - [2026-09-30: control-surface-agent — operator console for supervised decisions](https://github.com/cloudpresser/control-surface-agent)
 - [2026-10-01: The Control-Surface Band — Architecting Autonomy](https://awslabs.dev/architecting-autonomy/control-surface-band/)
+- [2026-10-13: ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
 
 ### `trajectory`
 - [2026-10-06: Graphectory Viewer: process-centric agent trajectory graphs (arXiv 2608.17195, ASE '26 tool)](https://arxiv.org/abs/2608.17195)
