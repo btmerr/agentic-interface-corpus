@@ -1,8 +1,16 @@
 # Corpus index (by tag)
 
-_Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 153 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-15
+- [Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
+- [Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
+- [HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
+- [Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
+- [ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
+- [Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 
 ### 2026-10-14
 - [Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
@@ -204,6 +212,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 ## By tag
 
 ### `acp`
+- [2026-10-15: ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
 - [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 - [2026-10-13: ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
@@ -211,6 +220,11 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: ACP subagents RFD (merged 2026-09-30)](https://github.com/agentclientprotocol/agent-client-protocol/pull/1992)
 
 ### `approval`
+- [2026-10-15: Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
+- [2026-10-15: Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
+- [2026-10-15: HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
+- [2026-10-15: Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
+- [2026-10-15: ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
 - [2026-10-14: Authority Is Not a String: CapScope capability-scoped harness (arXiv 2609.08371)](https://arxiv.org/abs/2609.08371)
 - [2026-10-14: How Do Agent Harnesses Create Value? Planning Information and Release Control (arXiv 2609.20474)](https://arxiv.org/abs/2609.20474)
 - [2026-10-14: OpenAgentFlow: system-wide safety at the action-commit boundary (arXiv 2609.00015)](https://arxiv.org/abs/2609.00015)
@@ -302,6 +316,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-09: A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
 
 ### `binding`
+- [2026-10-15: Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
 - [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
 - [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
@@ -353,6 +368,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
 
 ### `eval`
+- [2026-10-15: HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
 - [2026-10-14: Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
 - [2026-10-14: How Do Agent Harnesses Create Value? Planning Information and Release Control (arXiv 2609.20474)](https://arxiv.org/abs/2609.20474)
 - [2026-10-14: OpenAgentFlow: system-wide safety at the action-commit boundary (arXiv 2609.00015)](https://arxiv.org/abs/2609.00015)
@@ -379,10 +395,14 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: Claude Code 2.1.287–2.1.289: Claude Mods + 'You should know' side agent](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 
 ### `fail-closed`
+- [2026-10-15: Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
 - [2026-10-09: Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 
 ### `fleet`
+- [2026-10-15: HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
+- [2026-10-15: Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
+- [2026-10-15: Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 - [2026-10-14: Authority Is Not a String: CapScope capability-scoped harness (arXiv 2609.08371)](https://arxiv.org/abs/2609.08371)
 - [2026-10-14: OpenAgentFlow: system-wide safety at the action-commit boundary (arXiv 2609.00015)](https://arxiv.org/abs/2609.00015)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
@@ -438,10 +458,16 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-09-17: EvoGenUI-Bench / DeepSeek Harness GenUI (arXiv 2608.29387)](https://arxiv.org/abs/2608.29387)
 
 ### `governance`
+- [2026-10-15: Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
 - [2026-10-12: ADR 0030: Action-Bound, Fail-Closed Approval Protocol (Microsoft Agent Governance Toolkit)](https://microsoft.github.io/agent-governance-toolkit/adr/0030-action-bound-approval-protocol/)
 - [2026-10-07: A Case Study in Assuring AI-Written Software (arXiv 2610.08651)](https://arxiv.org/abs/2610.08651)
 
 ### `harness`
+- [2026-10-15: Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
+- [2026-10-15: Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
+- [2026-10-15: HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
+- [2026-10-15: Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
+- [2026-10-15: Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 - [2026-10-14: Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
 - [2026-10-14: Authority Is Not a String: CapScope capability-scoped harness (arXiv 2609.08371)](https://arxiv.org/abs/2609.08371)
 - [2026-10-14: How Do Agent Harnesses Create Value? Planning Information and Release Control (arXiv 2609.20474)](https://arxiv.org/abs/2609.20474)
@@ -542,6 +568,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-09-07: What I learned building a native console for two competing coding agents](https://dev.to/cyl-castillo/what-i-learned-building-a-native-console-for-two-competing-coding-agents-4fdk)
 
 ### `hooks`
+- [2026-10-15: Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
 - [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
 - [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 - [2026-10-12: Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
@@ -599,6 +626,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-12: Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
 
 ### `oss`
+- [2026-10-15: Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 - [2026-10-14: Authority Is Not a String: CapScope capability-scoped harness (arXiv 2609.08371)](https://arxiv.org/abs/2609.08371)
 - [2026-10-12: Cloudflare Agents Codemode: approvals via abort-and-replay](https://github.com/cloudflare/agents/blob/HEAD/docs/codemode/approvals.md)
 - [2026-10-07: agent-manager: ten coding agents in one TUI](https://heyaican.com/en/projects/agent-manager/)
@@ -678,6 +706,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-06: Emerging Agency-Aware Interface Patterns in AI-in-the-Loop Platforms (ICMI '26 Companion)](https://dl.acm.org/doi/10.1145/3776591.3832499)
 
 ### `permission`
+- [2026-10-15: ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
 - [2026-10-07: Let the Agent Do It? Permission decisions in agentic AI assistants (arXiv 2610.06047)](https://arxiv.org/abs/2610.06047)
 
 ### `permissions`
@@ -689,6 +718,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
 
 ### `plan`
+- [2026-10-15: Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
 - [2026-10-14: How Do Agent Harnesses Create Value? Planning Information and Release Control (arXiv 2609.20474)](https://arxiv.org/abs/2609.20474)
 - [2026-10-13: Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
@@ -738,6 +768,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-09: Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
 
 ### `product`
+- [2026-10-15: Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
 - [2026-10-13: Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 - [2026-10-12: Cloudflare Agents Codemode: approvals via abort-and-replay](https://github.com/cloudflare/agents/blob/HEAD/docs/codemode/approvals.md)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
@@ -750,6 +781,9 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-02: Plan Mode — Command Code](https://commandcode.ai/docs/plan-mode)
 
 ### `protocol`
+- [2026-10-15: Guarded Commits: Transactional Human Approvals for LLM Workflows (arXiv 2610.00037)](https://arxiv.org/abs/2610.00037)
+- [2026-10-15: ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
+- [2026-10-15: Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 - [2026-10-14: Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
 - [2026-10-14: Authority Is Not a String: CapScope capability-scoped harness (arXiv 2609.08371)](https://arxiv.org/abs/2609.08371)
 - [2026-10-14: ACP Client-Provided System Prompt RFD → Draft](https://agentclientprotocol.com/rfds/client-system-prompt)
@@ -834,12 +868,15 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: ARCTIC: Intent, Drift, and Spotlight for AI-Generated Diffs (arXiv 2607.29516)](https://arxiv.org/abs/2607.29516)
 
 ### `security`
+- [2026-10-15: HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
+- [2026-10-15: Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
 - [2026-10-13: PyCache Trap: The Inspection–Execution Gap in Agent Skill Scanners (arXiv 2610.10612)](https://arxiv.org/abs/2610.10612)
 - [2026-10-13: Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
 - [2026-10-12: Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [2026-10-12: Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
 
 ### `status`
+- [2026-10-15: ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
 - [2026-10-09: A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
 - [2026-10-07: ACP Session Notices RFD (Preview)](https://agentclientprotocol.com/rfds/session-notices)
 - [2026-10-07: agent-manager: ten coding agents in one TUI](https://heyaican.com/en/projects/agent-manager/)
@@ -848,6 +885,7 @@ _Generated from 147 items. See `items.jsonl` / `corpus.db` for full fields._
 - [2026-10-05: ACP subagents RFD (merged 2026-09-30)](https://github.com/agentclientprotocol/agent-client-protocol/pull/1992)
 
 ### `supervision`
+- [2026-10-15: Task-State Governance: TaskVM (arXiv 2610.20100)](https://arxiv.org/abs/2610.20100)
 - [2026-10-14: Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
 - [2026-10-12: Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
 - [2026-10-09: ParallelPilot: Supporting Coordination and Monitoring in Parallel AI Coding (arXiv 2609.33113)](https://arxiv.org/abs/2609.33113)
