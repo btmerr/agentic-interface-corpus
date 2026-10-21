@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 180 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-21
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
 
 ### 2026-10-20
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
@@ -241,6 +250,7 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
 
 ### `acp`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
 - [ACP RFD PR #2446: Agent-Configured MCP Servers (draft)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2446)
 - [ACP RFD PR #2394: define a session's last change, and how to catch up to it](https://github.com/agentclientprotocol/agent-client-protocol/pull/2394)
 - [ACP v2 Prompt Lifecycle + Permission Requests](https://agentclientprotocol.com/protocol/v2/prompt-lifecycle)
@@ -257,6 +267,7 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claim Laundering: When Agent Decision Models Trust Records Over Reality (arXiv 2610.25947)](https://arxiv.org/abs/2610.25947)
 
 ### `approval`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 - [Claude Code v2.1.304: decider "person", skipped-hook transcript lines, layered settings.read, sub-agent status line](https://github.com/anthropics/claude-code/releases/tag/v2.1.304)
 - [Kairos: Transactional Security Enforcement at the System Boundary (arXiv 2610.18457)](https://arxiv.org/abs/2610.18457)
 - [Agent Approval Laundering: Transitive Effects Beyond the Approved Invocation (arXiv 2609.28586)](https://arxiv.org/abs/2609.28586)
@@ -354,16 +365,30 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [The Agent Interface Is the Harness](https://blakecrosley.com/blog/agent-interface-is-the-harness)
 - [What I learned building a native console for two competing coding agents](https://dev.to/cyl-castillo/what-i-learned-building-a-native-console-for-two-competing-coding-agents-4fdk)
 
+### `approval-gates`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
 ### `artifact-centric-ui`
 - [Ream: Unfolding Mutual Awareness in Human-Agent Workspaces](https://arxiv.org/abs/2610.09497)
 
+### `ask-the-user`
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
+
 ### `attention`
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
 - [A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
+
+### `authorization`
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
 
 ### `auto-mode`
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
 
+### `background-work`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
+
 ### `benchmark`
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
 
 ### `binding`
@@ -372,6 +397,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Cursor CLI v2026.10.08 (+ IDE 3.24): Auto-review asks when a delete could resolve differently than written](https://cursor.com/docs/cli/changelog)
 - [Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
+
+### `cancellation`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
 
 ### `canvas`
 - [Cursor Projects: coordinator fleet object with shared context and subscriptions](https://cursor.com/changelog/projects)
@@ -416,13 +444,18 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
 
 ### `claude-code`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 - [Claude Code v2.1.304: decider "person", skipped-hook transcript lines, layered settings.read, sub-agent status line](https://github.com/anthropics/claude-code/releases/tag/v2.1.304)
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
+
+### `code-review`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 
 ### `coding-agents`
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
 
 ### `compaction`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
 
 ### `conflicts`
@@ -447,7 +480,11 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `dashboard`
 - [ParallelPilot: Supporting Coordination and Monitoring in Parallel AI Coding (arXiv 2609.33113)](https://arxiv.org/abs/2609.33113)
 
+### `decisions`
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
+
 ### `delegation`
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
 - [Cling: Human-Directed, In-Situ, Small-Step Automation (arXiv 2610.25879)](https://arxiv.org/abs/2610.25879)
 
 ### `diff`
@@ -500,6 +537,7 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 
 ### `fleet`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
 - [GitHub Copilot dynamic workflows (CLI, app, SDK)](https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app/)
 - [Harness Policy Distillation: Aligning Agent Policies with Runtime Semantics (arXiv 2610.20261)](https://arxiv.org/abs/2610.20261)
@@ -686,6 +724,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [What I learned building a native console for two competing coding agents](https://dev.to/cyl-castillo/what-i-learned-building-a-native-console-for-two-competing-coding-agents-4fdk)
 
 ### `hci`
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
 - [Cling: Human-Directed, In-Situ, Small-Step Automation (arXiv 2610.25879)](https://arxiv.org/abs/2610.25879)
 
 ### `hci-study`
@@ -699,8 +740,14 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code: approval integrity fixes (plugin tool.check, plan resume, org Always allow)](https://changelogs.core-directive.com/docs/c/claude-code-20261006T193702Z)
 - [Claude Code hooks fail closed: onFailure "block" (Oct 8 changelog)](https://code.claude.com/docs/en/changelog)
 
+### `human-factors`
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
+
 ### `ide`
 - [JetBrains Air in IDEs (EAP)](https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/)
+
+### `implicit-decisions`
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
 
 ### `in-situ`
 - [Cling: Human-Directed, In-Situ, Small-Step Automation (arXiv 2610.25879)](https://arxiv.org/abs/2610.25879)
@@ -737,7 +784,11 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Anatomy of a harness](https://mastra.ai/blog/anatomy-of-a-coding-agent)
 - [The `codex agents` Dashboard](https://codex.danielvaughan.com/2026/08/31/codex-agents-dashboard-v0149-multi-agent-session-management/)
 
+### `llm-judge`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
 ### `mcp`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 - [ACP RFD PR #2446: Agent-Configured MCP Servers (draft)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2446)
 
 ### `mobile`
@@ -759,6 +810,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `mutual-awareness`
 - [Ream: Unfolding Mutual Awareness in Human-Agent Workspaces](https://arxiv.org/abs/2610.09497)
+
+### `non-chat-interface`
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
 
 ### `notice`
 - [ACP Session Compaction RFD → Completed (stable in v1 and v2)](https://agentclientprotocol.com/rfds/session-compaction)
@@ -809,6 +863,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Agent Think Map](https://github.com/nimrodfisher/agent-think-map)
 - [Agent Flow](https://github.com/patoles/agent-flow)
 - [cctrace](https://github.com/thevibeworks/cctrace)
+
+### `oversight`
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
 
 ### `parallel`
 - [ParallelPilot: Supporting Coordination and Monitoring in Parallel AI Coding (arXiv 2609.33113)](https://arxiv.org/abs/2609.33113)
@@ -926,6 +983,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Human-in-the-Loop: Where to Put the Approval Gate](https://multigrid.ai/learn/human-in-the-loop-agents)
 - [Anatomy of a harness](https://mastra.ai/blog/anatomy-of-a-coding-agent)
 
+### `plan-as-document`
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
+
 ### `practice`
 - [Engineering the harness: guides, sensors, and selective human gates (Thoughtworks)](https://www.thoughtworks.com/en-us/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents)
 
@@ -943,6 +1003,7 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Plan Mode — Command Code](https://commandcode.ai/docs/plan-mode)
 
 ### `protocol`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
 - [ACP RFD PR #2446: Agent-Configured MCP Servers (draft)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2446)
 - [ACP RFD PR #2394: define a session's last change, and how to catch up to it](https://github.com/agentclientprotocol/agent-client-protocol/pull/2394)
 - [ACP v2 Metadata Patches RFD](https://agentclientprotocol.com/rfds/v2/meta-patches)
@@ -995,6 +1056,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `records`
 - [Claim Laundering: When Agent Decision Models Trust Records Over Reality (arXiv 2610.25947)](https://arxiv.org/abs/2610.25947)
 
+### `refusal-state`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
 ### `remote`
 - [Cursor: Remote control for local agents (iOS)](https://cursor.com/changelog/remote-control-local-agents)
 
@@ -1031,6 +1095,7 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Harness Engineering: Anatomy of Coding Agents (arXiv 2609.00006)](https://arxiv.org/abs/2609.00006)
 
 ### `review`
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
 - [Cross-Provider Review as a Runtime Contract for Coding Agents (arXiv 2610.10961)](https://arxiv.org/abs/2610.10961)
 - [Humanize: Judgement Engineering for Agentic Coding (arXiv 2610.08900)](https://arxiv.org/abs/2610.08900)
 - [(When) Should a Software Factory be Lights-off? Benchmarking Code Review Agents on Bug Detection (arXiv 2610.13668)](https://arxiv.org/abs/2610.13668)
@@ -1047,6 +1112,18 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `reward-hacking`
 - [Beyond the Verdict: Agentic Code Judging with Verifiable Feedback (Arbiter)](https://arxiv.org/abs/2610.18760)
 
+### `rollback`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
+### `run-visibility`
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
+
+### `sandbox`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
+
+### `scope`
+- [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
+
 ### `security`
 - [HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses? (arXiv 2610.07639)](https://arxiv.org/abs/2610.07639)
 - [Unified Harness Protocol 2026-10-04](https://unifiedharnessprotocol.org/spec/2026-10-04)
@@ -1055,6 +1132,12 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Approval Laundering: Systematizing Approval–Execution Binding Failures in AI Coding-Agent Harnesses (arXiv 2609.38983)](https://arxiv.org/abs/2609.38983)
 - [Loopjacking: Hijacking Human-in-the-Loop Approval (arXiv 2609.21081)](https://arxiv.org/abs/2609.21081)
 
+### `self-improvement`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
+### `session-lifecycle`
+- [ACP RFD PR #2452: v2 background work](https://github.com/agentclientprotocol/agent-client-protocol/pull/2452)
+
 ### `session-resume`
 - [ACP RFD PR #2394: define a session's last change, and how to catch up to it](https://github.com/agentclientprotocol/agent-client-protocol/pull/2394)
 
@@ -1062,6 +1145,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [ACP RFD PR #2446: Agent-Configured MCP Servers (draft)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2446)
 - [Claude Code v2.1.304: decider "person", skipped-hook transcript lines, layered settings.read, sub-agent status line](https://github.com/anthropics/claude-code/releases/tag/v2.1.304)
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
+
+### `silent-defects`
+- [Looks Fine to Me: Understanding Oversight in Agentic Interactions (arXiv 2610.27801)](https://arxiv.org/abs/2610.27801)
 
 ### `silent-failure`
 - [Claim Laundering: When Agent Decision Models Trust Records Over Reality (arXiv 2610.25947)](https://arxiv.org/abs/2610.25947)
@@ -1098,6 +1184,9 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `terminal`
 - [A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
+
+### `tests`
+- [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
 
 ### `tiles`
 - [Cursor 3.1: tiled Agents Window, plan tabs as documents, diff-to-file](https://cursor.com/changelog/3-1)
@@ -1165,9 +1254,18 @@ _Generated from 173 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claim Laundering: When Agent Decision Models Trust Records Over Reality (arXiv 2610.25947)](https://arxiv.org/abs/2610.25947)
 - [Beyond the Verdict: Agentic Code Judging with Verifiable Feedback (Arbiter)](https://arxiv.org/abs/2610.18760)
 
+### `verifiers`
+- [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
 ### `visualization`
 - [Graphectory Viewer: process-centric agent trajectory graphs (arXiv 2608.17195, ASE '26 tool)](https://arxiv.org/abs/2608.17195)
 - [Agent ATO: interaction-timeline lanes from coding-agent logs (arXiv 2609.08301)](https://arxiv.org/abs/2609.08301)
+
+### `waiting`
+- [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
+
+### `workflows`
+- [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 
 ### `workflows-as-code`
 - [GitHub Copilot dynamic workflows (CLI, app, SDK)](https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app/)
