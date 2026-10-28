@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 207 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 214 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-28
+- [Continue or Restart? The Limits of Early Failure Prediction in Coding Agents (arXiv 2610.35971)](https://arxiv.org/abs/2610.35971)
+- [Your Wish Is My Commit: Over-Compliant Refactoring in AI Coding Agents (arXiv 2610.36346)](https://arxiv.org/abs/2610.36346)
+- [Concordat: Typed Sessions for LLM Agents (arXiv 2610.37461)](https://arxiv.org/abs/2610.37461)
+- [Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents (arXiv 2610.37224)](https://arxiv.org/abs/2610.37224)
+- [Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses (arXiv 2610.36114)](https://arxiv.org/abs/2610.36114)
+- [ACP PR #2576: cancelled covers user stops via Agent interactions (+ #2575 idempotent close, #2579 v2 session lifecycle)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2576)
+- [Claude Code v2.1.312 + Codex CLI 0.165.0: status that tracks what's in force](https://github.com/anthropics/claude-code/releases/tag/v2.1.312)
 
 ### 2026-10-27
 - [Rethinking Verification in Agent Harnesses (arXiv 2610.34577)](https://arxiv.org/abs/2610.34577)
