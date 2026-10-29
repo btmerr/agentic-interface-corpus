@@ -1,8 +1,16 @@
 # Corpus index (by tag)
 
-_Generated from 214 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 220 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-29
+- [CASEL: Consequence-Aware Selective Execution for Tool-Using Agents (arXiv 2610.36570) + EffectWorld effect-typed tools (2610.35981)](https://arxiv.org/abs/2610.36570)
+- [PROBE: Frontier Coding Agents Find Different Bugs Than Maintainers Fix (arXiv 2610.35987) + PASS Is a Claim (2610.35950)](https://arxiv.org/abs/2610.35987)
+- [Stratum: Repository Memory for Coding Agents Beyond the Context Window (arXiv 2610.36153)](https://arxiv.org/abs/2610.36153)
+- [kw-bench: Breaking Frontier Harnesses on Real-World Tasks (arXiv 2610.36405)](https://arxiv.org/abs/2610.36405)
+- [GitHub Universe: Copilot app projects + computer use, shared Automations, Agentic Workflows GA, Copilot Fusion](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
+- [ACP PR #2610: close vs cancel (+ #2607 prompt response unordered, #2613 replay covers retained history, #2579 v2 lifecycle merged)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2610)
 
 ### 2026-10-28
 - [Continue or Restart? The Limits of Early Failure Prediction in Coding Agents (arXiv 2610.35971)](https://arxiv.org/abs/2610.35971)
