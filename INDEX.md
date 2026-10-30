@@ -1,8 +1,16 @@
 # Corpus index (by tag)
 
-_Generated from 220 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 226 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-10-30
+- [Soei: Structured Observability of Evidence and Intent for Multi-Agent AI SE (+ Agentic Process Evidence)](https://arxiv.org/abs/2610.39468)
+- [Precedent or Intent? What Coding Agents Follow When Evolving Existing Code (+ Security Impact of Memory Files)](https://arxiv.org/abs/2610.38244)
+- [EnvOS: Auditing Computer-Use Agents When the World Moves On](https://arxiv.org/abs/2610.40246)
+- [Snyk VulnBench 2.0: How Deterministic SAST and AI Security Agents Divide the Work](https://arxiv.org/abs/2610.38617)
+- [Claude Code v2.1.314 (+ Codex 0.166.0): honest tool-call outcome states](https://github.com/anthropics/claude-code/releases/tag/v2.1.314)
+- [ACP PR #2714: tie mode-switch example to user approval](https://github.com/agentclientprotocol/agent-client-protocol/pull/2714)
 
 ### 2026-10-29
 - [CASEL: Consequence-Aware Selective Execution for Tool-Using Agents (arXiv 2610.36570) + EffectWorld effect-typed tools (2610.35981)](https://arxiv.org/abs/2610.36570)
