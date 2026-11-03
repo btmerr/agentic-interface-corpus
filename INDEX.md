@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 233 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 240 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-03
+- [When Neither Side Confirms: destructive tool approval across MCP servers and hosts (arXiv 2611.02527)](https://arxiv.org/abs/2611.02527)
+- [RECEIPT: measuring and repairing the return assumption of LLM agents (arXiv 2611.01930)](https://arxiv.org/abs/2611.01930)
+- [Do Agents Still Follow the Rules? ARCBench rule compliance under context compaction (arXiv 2611.03223)](https://arxiv.org/abs/2611.03223)
+- [Getting a Grip: operating human-agent software teams through governed messages (yoars) (arXiv 2611.00689)](https://arxiv.org/abs/2611.00689)
+- [ParallACT: decentralized multi-agent coordination in shared codebases (arXiv 2611.00314)](https://arxiv.org/abs/2611.00314)
+- [Boundary Contracts: bounding coding-agent autonomy in software maintenance (pilot) (arXiv 2611.01265)](https://arxiv.org/abs/2611.01265)
+- [Claude Code v2.1.317 release notes](https://github.com/anthropics/claude-code/releases/tag/v2.1.317)
 
 ### 2026-11-02
 - [Shall We Approve? Caper consequence-aware approval for coding agents (arXiv 2610.40753)](https://arxiv.org/abs/2610.40753)
