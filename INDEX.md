@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 240 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 247 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-04
+- [Vibetrace: From Watching to Steering via execution traces (arXiv 2611.04466)](https://arxiv.org/abs/2611.04466)
+- [Agentic Path Maps: exposing paths the agent didn't take (arXiv 2611.04183)](https://arxiv.org/abs/2611.04183)
+- [A Gated Spec-Driven Workflow: audit-trail study of coding-agent work (arXiv 2611.05094)](https://arxiv.org/abs/2611.05094)
+- [Silent Instrument Errors Reorder Agent Leaderboards (arXiv 2611.04399)](https://arxiv.org/abs/2611.04399)
+- [MCPGuard: conformance gaps in official MCP SDKs (arXiv 2611.03662)](https://arxiv.org/abs/2611.03662)
+- [Do Coding Agents Follow AGENTS.md? Policy wording and compliance (arXiv 2611.04367)](https://arxiv.org/abs/2611.04367)
+- [Claude Code v2.1.318 release notes](https://github.com/anthropics/claude-code/releases/tag/v2.1.318)
 
 ### 2026-11-03
 - [When Neither Side Confirms: destructive tool approval across MCP servers and hosts (arXiv 2611.02527)](https://arxiv.org/abs/2611.02527)
