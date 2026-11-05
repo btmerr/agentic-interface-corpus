@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 247 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 254 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-05
+- [Episteme: Trustworthy Coding Agents Through Tool Call Intent (arXiv 2611.06563)](https://arxiv.org/abs/2611.06563)
+- [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains (arXiv 2611.06585)](https://arxiv.org/abs/2611.06585)
+- [Can Coding Agents Sustain Continual Evolution without Forgetting? (arXiv 2611.03219)](https://arxiv.org/abs/2611.03219)
+- [HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents (arXiv 2611.06254)](https://arxiv.org/abs/2611.06254)
+- [Trace2Eval: Contextualized Evaluation of Coding Agents from Real-World Traces (arXiv 2611.06506)](https://arxiv.org/abs/2611.06506)
+- [Task-efficient agent evaluation using cached traces (arXiv 2611.06803)](https://arxiv.org/abs/2611.06803)
+- [MCP-Eco: A Linked Dataset of MCP Servers, Consumers, and Development Activity (arXiv 2611.06897)](https://arxiv.org/abs/2611.06897)
 
 ### 2026-11-04
 - [Vibetrace: From Watching to Steering via execution traces (arXiv 2611.04466)](https://arxiv.org/abs/2611.04466)
