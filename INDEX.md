@@ -1,8 +1,19 @@
 # Corpus index (by tag)
 
-_Generated from 261 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 270 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-09
+- [When Routine Operations Break Architectural Pattern Relationships in LLM Agent Harnesses (arXiv 2611.09088)](https://arxiv.org/abs/2611.09088)
+- [Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use (arXiv 2611.09113)](https://arxiv.org/abs/2611.09113)
+- [Claude Code v2.1.319 + ACP #2775/#2776: background MCP tasks, deny-instead-of-prompting, subagent task attribution, cancel = foreground only](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)
+- [Take It From Here: Evaluating Coding Agents On Project Takeover (arXiv 2611.07307)](https://arxiv.org/abs/2611.07307)
+- [Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development (arXiv 2611.08456)](https://arxiv.org/abs/2611.08456)
+- [Tracybot: Preserving Developer Intent by Tracing Agent-Generated Code to Prompts (arXiv 2611.09395)](https://arxiv.org/abs/2611.09395)
+- [Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks (arXiv 2611.08417)](https://arxiv.org/abs/2611.08417)
+- [When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents (arXiv 2611.09802)](https://arxiv.org/abs/2611.09802)
+- [Hard Issue, Weak Model, or Bad Run? Rethinking Failure Prediction for Coding Agents (arXiv 2611.08285)](https://arxiv.org/abs/2611.08285)
 
 ### 2026-11-06
 - [Replay Is a Family of Assertions: Fork-Safety in Event-Sourced Agent Runtimes](https://arxiv.org/abs/2611.06924)
