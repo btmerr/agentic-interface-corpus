@@ -1,8 +1,20 @@
 # Corpus index (by tag)
 
-_Generated from 270 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 280 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-10
+- [From Delegation to Action Approval: Developers' Practices with AI Coding Agents (arXiv 2611.10058)](https://arxiv.org/abs/2611.10058)
+- [Mutation Testing for Multi-Agent Workflows (arXiv 2611.09895)](https://arxiv.org/abs/2611.09895)
+- [Done Is Not Correct: Silent Failures and Self-Verification Calibration in CAD Agents (arXiv 2611.10063)](https://arxiv.org/abs/2611.10063)
+- [Claude Code v2.1.321](https://github.com/anthropics/claude-code/releases/tag/v2.1.321)
+- [ACP #2786/#2787/#2788: background work tool calls, session content references, plan operation semantics](https://github.com/agentclientprotocol/agent-client-protocol/pull/2786)
+- [WorkflowArena: Executable Workflow Orchestration in Multi-Agent Systems (arXiv 2611.12856)](https://arxiv.org/abs/2611.12856)
+- [SPRING-5: Measuring Tool Documentation Repair by Efficiency (arXiv 2611.10040)](https://arxiv.org/abs/2611.10040)
+- [Replay Fidelity in LLM Agent Evaluation: AppWorld (arXiv 2611.11216)](https://arxiv.org/abs/2611.11216)
+- [Linking Event-sequence Data Claims to Analytic Provenance in Chatbots (arXiv 2611.11325)](https://arxiv.org/abs/2611.11325)
+- [Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension (arXiv 2611.12019)](https://arxiv.org/abs/2611.12019)
 
 ### 2026-11-09
 - [When Routine Operations Break Architectural Pattern Relationships in LLM Agent Harnesses (arXiv 2611.09088)](https://arxiv.org/abs/2611.09088)
