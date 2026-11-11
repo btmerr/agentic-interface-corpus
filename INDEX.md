@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 280 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 287 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-11
+- [Dependable Long-Horizon LLM Agents: Where Errors Enter and Which Controls Reach Them (arXiv 2611.13254)](https://arxiv.org/abs/2611.13254)
+- [ACP session/options RFD and initial configOptions (#2791/#2792/#2794)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2791)
+- [Do They Do as They Are Told? Coding Agents' Adherence to Explicit Instructions in Context Files (arXiv 2611.13709)](https://arxiv.org/abs/2611.13709)
+- [Don't Just Trust Your Memory: Evidence-Linked Memory (WikiTrace) (arXiv 2611.14320)](https://arxiv.org/abs/2611.14320)
+- [From Questions to Decisions: Ask2Decide (arXiv 2611.13015)](https://arxiv.org/abs/2611.13015)
+- [Agent Benchmarks Stop Ranking Before They Run Out of Tasks (arXiv 2611.13541)](https://arxiv.org/abs/2611.13541)
+- [No finite rulebook can certify every safe program (arXiv 2611.13367)](https://arxiv.org/abs/2611.13367)
 
 ### 2026-11-10
 - [From Delegation to Action Approval: Developers' Practices with AI Coding Agents (arXiv 2611.10058)](https://arxiv.org/abs/2611.10058)
