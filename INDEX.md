@@ -1,8 +1,20 @@
 # Corpus index (by tag)
 
-_Generated from 306 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-16
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
+- [CarryOn: Learning What to Keep in Context (arXiv 2611.17808)](https://arxiv.org/abs/2611.17808)
+- [Testing Conversation Preservation Across LLM APIs / isloss (arXiv 2611.15543)](https://arxiv.org/abs/2611.15543)
+- [HerAgent: Block-Level Checkpointing Harness for Environment Setup (arXiv 2611.18443)](https://arxiv.org/abs/2611.18443)
+- [Interpreting Coding Agents Through Their Behavioral Trajectories (arXiv 2611.17440)](https://arxiv.org/abs/2611.17440)
 
 ### 2026-11-13
 - [Cleaning an Agent's History Hurts When the World Still Holds the Error (arXiv 2611.14654)](https://arxiv.org/abs/2611.14654)
