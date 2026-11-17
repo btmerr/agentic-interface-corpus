@@ -1,8 +1,21 @@
 # Corpus index (by tag)
 
-_Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 327 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-17
+- [Recovery Gone Too Far: Risky Fallback in LLM Agents (arXiv 2611.19886)](https://arxiv.org/abs/2611.19886)
+- [Auditable Authorization for LLM Agents across Model, Harness, Workflow (arXiv 2611.19237)](https://arxiv.org/abs/2611.19237)
+- [Agents Cannot Hand Over What They Have Not Yet Understood (arXiv 2611.18642)](https://arxiv.org/abs/2611.18642)
+- [AI Cannot Review What Humans Catch: Reviews of Agent Instruction Files (arXiv 2611.18582)](https://arxiv.org/abs/2611.18582)
+- [Anatomy of an Agent Harness: Decisions, Invariants and Corner Cases (arXiv 2611.19960)](https://arxiv.org/abs/2611.19960)
+- [Claude Code v2.1.326: destructive Bash no longer summarized as read; looks-saved settings warn](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)
+- [ACP #2845 Plan Operations to Preview + #2843 session cursors unstable schema](https://github.com/agentclientprotocol/agent-client-protocol/pull/2845)
+- [Beyond Prompts: Runtime Contracts for Coding Agents (arXiv 2611.19549)](https://arxiv.org/abs/2611.19549)
+- [Experience Rot: Experienced Agents Fail Where Novices Succeed (arXiv 2611.20922)](https://arxiv.org/abs/2611.20922)
+- [When Tool Names Are Not Identities: MCP Provider Misbinding (arXiv 2611.21577)](https://arxiv.org/abs/2611.21577)
+- [LoopSkill evidence-bound lifecycle control + Loop Engineering (arXiv 2611.18573, 2611.18571)](https://arxiv.org/abs/2611.18573)
 
 ### 2026-11-16
 - [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
@@ -421,12 +434,11 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `acceptance-bias`
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
 
+### `access`
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
+
 ### `accountability`
 - [What Will Replace Pull Requests? Rethinking Software Collaboration for AI Agents (arXiv 2610.34933)](https://arxiv.org/abs/2610.34933)
-
-### `ACP`
-- [ACP PR #2765: stabilize client-provided system prompt](https://github.com/agentclientprotocol/agent-client-protocol/pull/2765)
-- [Claude Code v2.1.319 + ACP #2775/#2776: background MCP tasks, deny-instead-of-prompting, subagent task attribution, cancel = foreground only](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)
 
 ### `acp`
 - [ACP subagents RFD (merged 2026-09-30)](https://github.com/agentclientprotocol/agent-client-protocol/pull/1992)
@@ -449,9 +461,21 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [ACP session/options RFD and initial configOptions (#2791/#2792/#2794)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2791)
 - [ACP subagents to Preview + #2801 unknown-state / no-invented-sender / no-guessed-session clarifications](https://github.com/agentclientprotocol/agent-client-protocol/pull/2801)
 - [ACP replay_complete merged (#2813) + v2 Idempotency Keys RFD (#2810) + repeated cancel/logout clarifications (#2808)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2813)
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
+- [ACP #2845 Plan Operations to Preview + #2843 session cursors unstable schema](https://github.com/agentclientprotocol/agent-client-protocol/pull/2845)
+
+### `ACP`
+- [ACP PR #2765: stabilize client-provided system prompt](https://github.com/agentclientprotocol/agent-client-protocol/pull/2765)
+- [Claude Code v2.1.319 + ACP #2775/#2776: background MCP tasks, deny-instead-of-prompting, subagent task attribution, cancel = foreground only](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)
+
+### `action-boundary`
+- [Recovery Gone Too Far: Risky Fallback in LLM Agents (arXiv 2611.19886)](https://arxiv.org/abs/2611.19886)
 
 ### `activity-traces`
 - [Ream: Unfolding Mutual Awareness in Human-Agent Workspaces](https://arxiv.org/abs/2610.09497)
+
+### `adapters`
+- [Testing Conversation Preservation Across LLM APIs / isloss (arXiv 2611.15543)](https://arxiv.org/abs/2611.15543)
 
 ### `agent-fleet`
 - [Codex CLI 0.167.0 — unread markers + inline patch review during approval](https://github.com/openai/codex/releases/tag/rust-v0.167.0)
@@ -462,6 +486,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `agents-md`
 - [Do Coding Agents Follow AGENTS.md? Policy wording and compliance (arXiv 2611.04367)](https://arxiv.org/abs/2611.04367)
 - [Do They Do as They Are Told? Coding Agents' Adherence to Explicit Instructions in Context Files (arXiv 2611.13709)](https://arxiv.org/abs/2611.13709)
+- [AI Cannot Review What Humans Catch: Reviews of Agent Instruction Files (arXiv 2611.18582)](https://arxiv.org/abs/2611.18582)
 
 ### `AGENTS.md`
 - [When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents (arXiv 2611.09802)](https://arxiv.org/abs/2611.09802)
@@ -471,6 +496,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `alternatives`
 - [Agentic Path Maps: exposing paths the agent didn't take (arXiv 2611.04183)](https://arxiv.org/abs/2611.04183)
+
+### `ambiguity`
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
 
 ### `approval`
 - [Agents Need Supervision Surfaces](https://blakecrosley.com/blog/agents-need-supervision-surfaces)
@@ -589,6 +617,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [From Delegation to Action Approval: Developers' Practices with AI Coding Agents (arXiv 2611.10058)](https://arxiv.org/abs/2611.10058)
 - [No finite rulebook can certify every safe program (arXiv 2611.13367)](https://arxiv.org/abs/2611.13367)
 - [DEPUTYBENCH: Evaluating Contextual Safety in Enterprise Agents (arXiv 2611.13355)](https://arxiv.org/abs/2611.13355)
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
+- [Auditable Authorization for LLM Agents across Model, Harness, Workflow (arXiv 2611.19237)](https://arxiv.org/abs/2611.19237)
+- [LoopSkill evidence-bound lifecycle control + Loop Engineering (arXiv 2611.18573, 2611.18571)](https://arxiv.org/abs/2611.18573)
 
 ### `approval-gates`
 - [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
@@ -606,14 +637,21 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `ask-the-user`
 - [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
 
+### `assumptions`
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
+
 ### `attention`
 - [A Terminal Protocol for Program Status (OSC 7501), Mitchell Hashimoto](https://mitchellh.com/writing/program-status-osc7501)
 - [Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits (Sidecar, arXiv 2610.27170)](https://arxiv.org/abs/2610.27170)
 - [Babysitting AI Agents: A User-Centered Taxonomy and Study of Agentic Delegation Failures (MANDATE, arXiv 2610.34748)](https://arxiv.org/abs/2610.34748)
 - [When Should AI Agents Ask? Clarification requests under limited human attention (arXiv 2610.41129)](https://arxiv.org/abs/2610.41129)
 
+### `attribution`
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
+
 ### `audit`
 - [Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging (arXiv 2610.29609)](https://arxiv.org/abs/2610.29609)
+- [Auditable Authorization for LLM Agents across Model, Harness, Workflow (arXiv 2611.19237)](https://arxiv.org/abs/2611.19237)
 
 ### `audit-trail`
 - [Getting a Grip: operating human-agent software teams through governed messages (yoars) (arXiv 2611.00689)](https://arxiv.org/abs/2611.00689)
@@ -624,6 +662,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [I-HITL: Inalienable Human-in-the-Loop (arXiv 2610.35835)](https://arxiv.org/abs/2610.35835)
 - [Evidence-Guided Recovery for ambiguous tool outcomes and partial execution (arXiv 2610.41453) + Cross-Interface Authorization for computer-use agents (2610.41397)](https://arxiv.org/abs/2610.41453)
 - [SideTaskBench: Measuring Unauthorized Side-Task Delivery in Coding Agents (arXiv 2611.14548)](https://arxiv.org/abs/2611.14548)
+- [Auditable Authorization for LLM Agents across Model, Harness, Workflow (arXiv 2611.19237)](https://arxiv.org/abs/2611.19237)
 
 ### `auto-mode`
 - [Claude Code v2.1.302: auto-mode classifier model, idle compaction toggle, classifier telemetry](https://github.com/anthropics/claude-code/releases/tag/v2.1.302)
@@ -646,6 +685,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `backup`
 - [Back Up Before You Regret: RegretBench + BackUpper backup layer for coding agents (arXiv 2610.28934)](https://arxiv.org/abs/2610.28934)
+
+### `behavior`
+- [Interpreting Coding Agents Through Their Behavioral Trajectories (arXiv 2611.17440)](https://arxiv.org/abs/2611.17440)
 
 ### `benchmark`
 - [SWE-Residual: Evaluating Starting-State Robustness of Coding Agents (arXiv 2610.25899)](https://arxiv.org/abs/2610.25899)
@@ -733,13 +775,16 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.318 release notes](https://github.com/anthropics/claude-code/releases/tag/v2.1.318)
 - [Codex CLI 0.167.0 — unread markers + inline patch review during approval](https://github.com/openai/codex/releases/tag/rust-v0.167.0)
 - [Claude Code v2.1.323 + Codex 0.169.0: explicit not-run / no-result / blocked states and lossless plan handoff](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
 
 ### `checklist`
 - [Multimodal Judges Flag, Humans Decide: Review-and-Edit Framework (arXiv 2611.13178)](https://arxiv.org/abs/2611.13178)
+- [Anatomy of an Agent Harness: Decisions, Invariants and Corner Cases (arXiv 2611.19960)](https://arxiv.org/abs/2611.19960)
 
 ### `checkpoint`
 - [Back Up Before You Regret: RegretBench + BackUpper backup layer for coding agents (arXiv 2610.28934)](https://arxiv.org/abs/2610.28934)
 - [PAUSE: Search-Free Steering of Coding Agents Before Their First Source-Code Edit (arXiv 2610.29870)](https://arxiv.org/abs/2610.29870)
+- [HerAgent: Block-Level Checkpointing Harness for Environment Setup (arXiv 2611.18443)](https://arxiv.org/abs/2611.18443)
 
 ### `checkpoints`
 - [GitHub Copilot dynamic workflows (CLI, app, SDK)](https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app/)
@@ -777,6 +822,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.316: MCP form card in cloud sessions, Catching up line, no orphaned shells, honest auto-mode stop](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)
 - [Claude Code v2.1.321](https://github.com/anthropics/claude-code/releases/tag/v2.1.321)
 - [Claude Code v2.1.323 + Codex 0.169.0: explicit not-run / no-result / blocked states and lossless plan handoff](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)
+- [Claude Code v2.1.326: destructive Bash no longer summarized as read; looks-saved settings warn](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)
 
 ### `cli`
 - [RECEIPT: measuring and repairing the return assumption of LLM agents (arXiv 2611.01930)](https://arxiv.org/abs/2611.01930)
@@ -824,6 +870,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [SELD: Detecting Silent Evidence Loss in Context Compression (arXiv 2611.12903)](https://arxiv.org/abs/2611.12903)
 - [Cleaning an Agent's History Hurts When the World Still Holds the Error (arXiv 2611.14654)](https://arxiv.org/abs/2611.14654)
 - [Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents (arXiv 2611.16627)](https://arxiv.org/abs/2611.16627)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
+- [CarryOn: Learning What to Keep in Context (arXiv 2611.17808)](https://arxiv.org/abs/2611.17808)
+- [Agents Cannot Hand Over What They Have Not Yet Understood (arXiv 2611.18642)](https://arxiv.org/abs/2611.18642)
 
 ### `completion-claims`
 - [Done Is Not Correct: Silent Failures and Self-Verification Calibration in CAD Agents (arXiv 2611.10063)](https://arxiv.org/abs/2611.10063)
@@ -862,6 +911,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Do Agents Still Follow the Rules? ARCBench rule compliance under context compaction (arXiv 2611.03223)](https://arxiv.org/abs/2611.03223)
 - [SELD: Detecting Silent Evidence Loss in Context Compression (arXiv 2611.12903)](https://arxiv.org/abs/2611.12903)
 - [Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents (arXiv 2611.16627)](https://arxiv.org/abs/2611.16627)
+- [CarryOn: Learning What to Keep in Context (arXiv 2611.17808)](https://arxiv.org/abs/2611.17808)
 
 ### `context-files`
 - [AgentTorrent: A Dataset of Context and Harness Engineering Artifacts on GitHub (arXiv 2611.15436)](https://arxiv.org/abs/2611.15436)
@@ -904,12 +954,20 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Snyk VulnBench 2.0: How Deterministic SAST and AI Security Agents Divide the Work](https://arxiv.org/abs/2610.38617)
 - [guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems (arXiv 2611.15223)](https://arxiv.org/abs/2611.15223)
 
+### `cursors`
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
+- [ACP #2845 Plan Operations to Preview + #2843 session cursors unstable schema](https://github.com/agentclientprotocol/agent-client-protocol/pull/2845)
+
 ### `dashboard`
 - [ParallelPilot: Supporting Coordination and Monitoring in Parallel AI Coding (arXiv 2609.33113)](https://arxiv.org/abs/2609.33113)
 
 ### `dataset`
 - [MCP-Eco: A Linked Dataset of MCP Servers, Consumers, and Development Activity](https://arxiv.org/abs/2611.06897)
 - [AgentTorrent: A Dataset of Context and Harness Engineering Artifacts on GitHub (arXiv 2611.15436)](https://arxiv.org/abs/2611.15436)
+- [Interpreting Coding Agents Through Their Behavioral Trajectories (arXiv 2611.17440)](https://arxiv.org/abs/2611.17440)
+
+### `debugging`
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
 
 ### `decisions`
 - [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
@@ -918,9 +976,11 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Cling: Human-Directed, In-Situ, Small-Step Automation (arXiv 2610.25879)](https://arxiv.org/abs/2610.25879)
 - [Act on Your Behalf, Beyond Your Authorization: AuthorizationBench (arXiv 2610.27548)](https://arxiv.org/abs/2610.27548)
 - [WorkflowArena: Executable Workflow Orchestration in Multi-Agent Systems (arXiv 2611.12856)](https://arxiv.org/abs/2611.12856)
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
 
 ### `destructive-actions`
 - [When Neither Side Confirms: destructive tool approval across MCP servers and hosts (arXiv 2611.02527)](https://arxiv.org/abs/2611.02527)
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
 
 ### `diagnosis`
 - [ReplayRCA: post-hoc diagnosis vs live oversight by counterfactual replay (arXiv 2610.41025)](https://arxiv.org/abs/2610.41025)
@@ -962,15 +1022,20 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `enforcement`
 - [Do Agents Still Follow the Rules? ARCBench rule compliance under context compaction (arXiv 2611.03223)](https://arxiv.org/abs/2611.03223)
 - [A Gated Spec-Driven Workflow: audit-trail study of coding-agent work (arXiv 2611.05094)](https://arxiv.org/abs/2611.05094)
+- [Beyond Prompts: Runtime Contracts for Coding Agents (arXiv 2611.19549)](https://arxiv.org/abs/2611.19549)
 
 ### `ensemble`
 - [Correlated Failures of AI Approval Monitors (arXiv 2610.29178)](https://arxiv.org/abs/2610.29178)
+
+### `environment-setup`
+- [HerAgent: Block-Level Checkpointing Harness for Environment Setup (arXiv 2611.18443)](https://arxiv.org/abs/2611.18443)
 
 ### `errors`
 - [Claude Code v2.1.317 release notes](https://github.com/anthropics/claude-code/releases/tag/v2.1.317)
 
 ### `escalation`
 - [Knowing When to Stop: The Evidence-Action Gap in Coding Agents (ImpasseBench, arXiv 2610.31895)](https://arxiv.org/abs/2610.31895)
+- [Recovery Gone Too Far: Risky Fallback in LLM Agents (arXiv 2611.19886)](https://arxiv.org/abs/2611.19886)
 
 ### `eval`
 - [Harness Engineering: Anatomy of Coding Agents (arXiv 2609.00006)](https://arxiv.org/abs/2609.00006)
@@ -1053,6 +1118,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `failure-taxonomy`
 - [Babysitting AI Agents: A User-Centered Taxonomy and Study of Agentic Delegation Failures (MANDATE, arXiv 2610.34748)](https://arxiv.org/abs/2610.34748)
 
+### `fallback`
+- [Recovery Gone Too Far: Risky Fallback in LLM Agents (arXiv 2611.19886)](https://arxiv.org/abs/2611.19886)
+
 ### `fleet`
 - [The `codex agents` Dashboard](https://codex.danielvaughan.com/2026/08/31/codex-agents-dashboard-v0149-multi-agent-session-management/)
 - [Agent Teams](https://agentsroom.dev/features/teams)
@@ -1118,15 +1186,19 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [ACP subagents to Preview + #2801 unknown-state / no-invented-sender / no-guessed-session clarifications](https://github.com/agentclientprotocol/agent-client-protocol/pull/2801)
 - [Agent Architecture Cost-Success Trade-offs across Enterprise SOPs (arXiv 2611.12953)](https://arxiv.org/abs/2611.12953)
 - [ACP replay_complete merged (#2813) + v2 Idempotency Keys RFD (#2810) + repeated cancel/logout clarifications (#2808)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2813)
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
+- [Agents Cannot Hand Over What They Have Not Yet Understood (arXiv 2611.18642)](https://arxiv.org/abs/2611.18642)
 
 ### `forensics`
 - [Episteme: Trustworthy Coding Agents Through Tool Call Intent](https://arxiv.org/abs/2611.06563)
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
 
 ### `forgetting`
 - [Can Coding Agents Sustain Continual Evolution without Forgetting?](https://arxiv.org/abs/2611.03219)
 
 ### `fork`
 - [Vibetrace: From Watching to Steering via execution traces (arXiv 2611.04466)](https://arxiv.org/abs/2611.04466)
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
 
 ### `fork-safety`
 - [Replay Is a Family of Assertions: Fork-Safety in Event-Sourced Agent Runtimes](https://arxiv.org/abs/2611.06924)
@@ -1184,6 +1256,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `guardrails`
 - [Mutation Testing for Multi-Agent Workflows (arXiv 2611.09895)](https://arxiv.org/abs/2611.09895)
 
+### `guards`
+- [Beyond Prompts: Runtime Contracts for Coding Agents (arXiv 2611.19549)](https://arxiv.org/abs/2611.19549)
+
 ### `hallucination`
 - [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689)
 
@@ -1194,6 +1269,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Soei: Structured Observability of Evidence and Intent for Multi-Agent AI SE (+ Agentic Process Evidence)](https://arxiv.org/abs/2610.39468)
 - [Take It From Here: Evaluating Coding Agents On Project Takeover (arXiv 2611.07307)](https://arxiv.org/abs/2611.07307)
 - [Cleaning an Agent's History Hurts When the World Still Holds the Error (arXiv 2611.14654)](https://arxiv.org/abs/2611.14654)
+- [Agents Cannot Hand Over What They Have Not Yet Understood (arXiv 2611.18642)](https://arxiv.org/abs/2611.18642)
 
 ### `handoffs`
 - [Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs](https://arxiv.org/abs/2611.07483)
@@ -1325,6 +1401,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Take It From Here: Evaluating Coding Agents On Project Takeover (arXiv 2611.07307)](https://arxiv.org/abs/2611.07307)
 - [Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks (arXiv 2611.08417)](https://arxiv.org/abs/2611.08417)
 - [Hard Issue, Weak Model, or Bad Run? Rethinking Failure Prediction for Coding Agents (arXiv 2611.08285)](https://arxiv.org/abs/2611.08285)
+- [HerAgent: Block-Level Checkpointing Harness for Environment Setup (arXiv 2611.18443)](https://arxiv.org/abs/2611.18443)
+- [Anatomy of an Agent Harness: Decisions, Invariants and Corner Cases (arXiv 2611.19960)](https://arxiv.org/abs/2611.19960)
 
 ### `harness-config`
 - [AgentTorrent: A Dataset of Context and Harness Engineering Artifacts on GitHub (arXiv 2611.15436)](https://arxiv.org/abs/2611.15436)
@@ -1361,6 +1439,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `honest-state`
 - [Claude Code v2.1.323 + Codex 0.169.0: explicit not-run / no-result / blocked states and lossless plan handoff](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
+- [Claude Code v2.1.326: destructive Bash no longer summarized as read; looks-saved settings warn](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)
 
 ### `honest-status`
 - [RECEIPT: measuring and repairing the return assumption of LLM agents (arXiv 2611.01930)](https://arxiv.org/abs/2611.01930)
@@ -1416,6 +1496,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `ink`
 - [Inkitiate: steering agent assistance through ink in a spatial workspace (arXiv 2610.39905)](https://arxiv.org/abs/2610.39905)
 
+### `instruction-files`
+- [AI Cannot Review What Humans Catch: Reviews of Agent Instruction Files (arXiv 2611.18582)](https://arxiv.org/abs/2611.18582)
+
 ### `instruction-following`
 - [One Skill Takes Over: Clashing Agent Skills and a One-File Fix (SkillClash, arXiv 2610.25064)](https://arxiv.org/abs/2610.25064)
 - [Do Agents Still Follow the Rules? ARCBench rule compliance under context compaction (arXiv 2611.03223)](https://arxiv.org/abs/2611.03223)
@@ -1434,6 +1517,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Episteme: Trustworthy Coding Agents Through Tool Call Intent](https://arxiv.org/abs/2611.06563)
 - [Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development (arXiv 2611.08456)](https://arxiv.org/abs/2611.08456)
 - [Tracybot: Preserving Developer Intent by Tracing Agent-Generated Code to Prompts (arXiv 2611.09395)](https://arxiv.org/abs/2611.09395)
+
+### `interop`
+- [Testing Conversation Preservation Across LLM APIs / isloss (arXiv 2611.15543)](https://arxiv.org/abs/2611.15543)
 
 ### `interrupt`
 - [Anatomy of a harness](https://mastra.ai/blog/anatomy-of-a-coding-agent)
@@ -1469,6 +1555,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.312 + Codex CLI 0.165.0: status that tracks what's in force](https://github.com/anthropics/claude-code/releases/tag/v2.1.312)
 - [Claude Code v2.1.319 + ACP #2775/#2776: background MCP tasks, deny-instead-of-prompting, subagent task attribution, cancel = foreground only](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)
 
+### `invariants`
+- [Anatomy of an Agent Harness: Decisions, Invariants and Corner Cases (arXiv 2611.19960)](https://arxiv.org/abs/2611.19960)
+
 ### `IRT`
 - [Task-efficient agent evaluation using cached traces](https://arxiv.org/abs/2611.06803)
 
@@ -1487,12 +1576,16 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `lessons`
 - [Don't Just Trust Your Memory: Evidence-Linked Memory (WikiTrace) (arXiv 2611.14320)](https://arxiv.org/abs/2611.14320)
 
+### `lifecycle`
+- [LoopSkill evidence-bound lifecycle control + Loop Engineering (arXiv 2611.18573, 2611.18571)](https://arxiv.org/abs/2611.18573)
+
 ### `liveness`
 - [ACP session/status liveness check RFD (PR #986, merged) + RFD PRs #2482 subagent model, #2485 token usage](https://github.com/agentclientprotocol/agent-client-protocol/pull/986)
 
 ### `llm-judge`
 - [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
 - [When Evaluators of AI Agents Disagree: Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench (arXiv 2611.14581)](https://arxiv.org/abs/2611.14581)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
 
 ### `long-horizon`
 - [Atlas: Making Sense of Long Horizon Agent Trajectories (arXiv 2610.30548)](https://arxiv.org/abs/2610.30548)
@@ -1500,17 +1593,19 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents (arXiv 2610.37224)](https://arxiv.org/abs/2610.37224)
 - [kw-bench: Breaking Frontier Harnesses on Real-World Tasks (arXiv 2610.36405)](https://arxiv.org/abs/2610.36405)
 
-### `MCP`
-- [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains](https://arxiv.org/abs/2611.06585)
-- [MCP-Eco: A Linked Dataset of MCP Servers, Consumers, and Development Activity](https://arxiv.org/abs/2611.06897)
-- [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689)
-
 ### `mcp`
 - [ACP RFD PR #2446: Agent-Configured MCP Servers (draft)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2446)
 - [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
 - [Claude Code v2.1.307: safety_event OTel, Recently-denied names commands, idempotent-only MCP retries, fork-launch identity](https://github.com/anthropics/claude-code/releases/tag/v2.1.307)
 - [When Neither Side Confirms: destructive tool approval across MCP servers and hosts (arXiv 2611.02527)](https://arxiv.org/abs/2611.02527)
 - [MCPGuard: conformance gaps in official MCP SDKs (arXiv 2611.03662)](https://arxiv.org/abs/2611.03662)
+- [Experience Rot: Experienced Agents Fail Where Novices Succeed (arXiv 2611.20922)](https://arxiv.org/abs/2611.20922)
+- [When Tool Names Are Not Identities: MCP Provider Misbinding (arXiv 2611.21577)](https://arxiv.org/abs/2611.21577)
+
+### `MCP`
+- [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains](https://arxiv.org/abs/2611.06585)
+- [MCP-Eco: A Linked Dataset of MCP Servers, Consumers, and Development Activity](https://arxiv.org/abs/2611.06897)
+- [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689)
 
 ### `MCPGuard`
 - [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains](https://arxiv.org/abs/2611.06585)
@@ -1525,6 +1620,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Don't Just Trust Your Memory: Evidence-Linked Memory (WikiTrace) (arXiv 2611.14320)](https://arxiv.org/abs/2611.14320)
 - [When Should Agents Remember? Falsification-Gated Self-Evolution (arXiv 2611.14326)](https://arxiv.org/abs/2611.14326)
 - [Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents (arXiv 2611.16627)](https://arxiv.org/abs/2611.16627)
+- [Experience Rot: Experienced Agents Fail Where Novices Succeed (arXiv 2611.20922)](https://arxiv.org/abs/2611.20922)
 
 ### `memory-files`
 - [Precedent or Intent? What Coding Agents Follow When Evolving Existing Code (+ Security Impact of Memory Files)](https://arxiv.org/abs/2610.38244)
@@ -1595,6 +1691,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation (arXiv 2610.12532)](https://arxiv.org/abs/2610.12532)
 - [Soei: Structured Observability of Evidence and Intent for Multi-Agent AI SE (+ Agentic Process Evidence)](https://arxiv.org/abs/2610.39468)
 - [Silent Instrument Errors Reorder Agent Leaderboards (arXiv 2611.04399)](https://arxiv.org/abs/2611.04399)
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
+- [Interpreting Coding Agents Through Their Behavioral Trajectories (arXiv 2611.17440)](https://arxiv.org/abs/2611.17440)
 
 ### `optimization`
 - [HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents](https://arxiv.org/abs/2611.06254)
@@ -1727,6 +1825,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.321](https://github.com/anthropics/claude-code/releases/tag/v2.1.321)
 - [DEPUTYBENCH: Evaluating Contextual Safety in Enterprise Agents (arXiv 2611.13355)](https://arxiv.org/abs/2611.13355)
 - [Claude Code v2.1.323 + Codex 0.169.0: explicit not-run / no-result / blocked states and lossless plan handoff](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
+- [Claude Code v2.1.326: destructive Bash no longer summarized as read; looks-saved settings warn](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)
 
 ### `personalization`
 - [Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce (arXiv 2610.29216)](https://arxiv.org/abs/2610.29216)
@@ -1816,10 +1916,13 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `plans`
 - [ACP #2786/#2787/#2788: background work tool calls, session content references, plan operation semantics](https://github.com/agentclientprotocol/agent-client-protocol/pull/2786)
 - [AgentTorrent: A Dataset of Context and Harness Engineering Artifacts on GitHub (arXiv 2611.15436)](https://arxiv.org/abs/2611.15436)
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
+- [ACP #2845 Plan Operations to Preview + #2843 session cursors unstable schema](https://github.com/agentclientprotocol/agent-client-protocol/pull/2845)
 
 ### `policy`
 - [Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce (arXiv 2610.29216)](https://arxiv.org/abs/2610.29216)
 - [When Routine Operations Break Architectural Pattern Relationships in LLM Agent Harnesses (arXiv 2611.09088)](https://arxiv.org/abs/2611.09088)
+- [AI Cannot Review What Humans Catch: Reviews of Agent Instruction Files (arXiv 2611.18582)](https://arxiv.org/abs/2611.18582)
 
 ### `policy-replay`
 - [Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging (arXiv 2610.29609)](https://arxiv.org/abs/2610.29609)
@@ -1850,8 +1953,14 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Claude Code v2.1.300: agent transcript in the main view, virtualText, prompt.change, Slack Allow-once card](https://changelogs.core-directive.com/v/2.1.300)
 - [Claude Code v2.1.319 + ACP #2775/#2776: background MCP tasks, deny-instead-of-prompting, subagent task attribution, cancel = foreground only](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)
 
+### `production`
+- [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning (arXiv 2611.17304)](https://arxiv.org/abs/2611.17304)
+
 ### `projects`
 - [GitHub Universe: Copilot app projects + computer use, shared Automations, Agentic Workflows GA, Copilot Fusion](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
+
+### `prompt-suggestions`
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
 
 ### `protocol`
 - [Harnss](https://github.com/OpenSource03/harnss)
@@ -1911,6 +2020,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [ACP session/options RFD and initial configOptions (#2791/#2792/#2794)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2791)
 - [ACP subagents to Preview + #2801 unknown-state / no-invented-sender / no-guessed-session clarifications](https://github.com/agentclientprotocol/agent-client-protocol/pull/2801)
 - [ACP replay_complete merged (#2813) + v2 Idempotency Keys RFD (#2810) + repeated cancel/logout clarifications (#2808)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2813)
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
+- [ACP #2845 Plan Operations to Preview + #2843 session cursors unstable schema](https://github.com/agentclientprotocol/agent-client-protocol/pull/2845)
 
 ### `provenance`
 - [Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition (arXiv 2610.13227)](https://arxiv.org/abs/2610.13227)
@@ -1922,6 +2033,11 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Linking Event-sequence Data Claims to Analytic Provenance in Chatbots (arXiv 2611.11325)](https://arxiv.org/abs/2611.11325)
 - [Don't Just Trust Your Memory: Evidence-Linked Memory (WikiTrace) (arXiv 2611.14320)](https://arxiv.org/abs/2611.14320)
 - [Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents (arXiv 2611.16627)](https://arxiv.org/abs/2611.16627)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
+- [CarryOn: Learning What to Keep in Context (arXiv 2611.17808)](https://arxiv.org/abs/2611.17808)
+
+### `provider-identity`
+- [When Tool Names Are Not Identities: MCP Provider Misbinding (arXiv 2611.21577)](https://arxiv.org/abs/2611.21577)
 
 ### `questions`
 - [From Questions to Decisions: Ask2Decide (arXiv 2611.13015)](https://arxiv.org/abs/2611.13015)
@@ -1941,6 +2057,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `recovery`
 - [Evidence-Guided Recovery for ambiguous tool outcomes and partial execution (arXiv 2610.41453) + Cross-Interface Authorization for computer-use agents (2610.41397)](https://arxiv.org/abs/2610.41453)
+- [Recovery Gone Too Far: Risky Fallback in LLM Agents (arXiv 2611.19886)](https://arxiv.org/abs/2611.19886)
 
 ### `refusal-state`
 - [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
@@ -2013,6 +2130,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `resume`
 - [PAUSE: Search-Free Steering of Coding Agents Before Their First Source-Code Edit (arXiv 2610.29870)](https://arxiv.org/abs/2610.29870)
 - [Claude Code v2.1.309: 'outcome unknown' runner handoff + Changes pane scope labels](https://github.com/anthropics/claude-code/releases/tag/v2.1.309)
+- [Auditable Authorization for LLM Agents across Model, Harness, Workflow (arXiv 2611.19237)](https://arxiv.org/abs/2611.19237)
 
 ### `retry`
 - [Hard Issue, Weak Model, or Bad Run? Rethinking Failure Prediction for Coding Agents (arXiv 2611.08285)](https://arxiv.org/abs/2611.08285)
@@ -2036,6 +2154,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [What Will Replace Pull Requests? Rethinking Software Collaboration for AI Agents (arXiv 2610.34933)](https://arxiv.org/abs/2610.34933)
 - [Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development (arXiv 2611.08456)](https://arxiv.org/abs/2611.08456)
 - [Tracybot: Preserving Developer Intent by Tracing Agent-Generated Code to Prompts (arXiv 2611.09395)](https://arxiv.org/abs/2611.09395)
+- [AI Cannot Review What Humans Catch: Reviews of Agent Instruction Files (arXiv 2611.18582)](https://arxiv.org/abs/2611.18582)
 
 ### `review-gates`
 - [Beyond the Verdict: Agentic Code Judging with Verifiable Feedback (Arbiter)](https://arxiv.org/abs/2610.18760)
@@ -2047,6 +2166,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents (arXiv 2611.16293)](https://arxiv.org/abs/2611.16293)
 - [SideTaskBench: Measuring Unauthorized Side-Task Delivery in Coding Agents (arXiv 2611.14548)](https://arxiv.org/abs/2611.14548)
 - [Eliciting and Mitigating Specification Satisficing in Coding Agents / SatisFix (arXiv 2611.16289)](https://arxiv.org/abs/2611.16289)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
 
 ### `revision-contracts`
 - [Call-Level Revision Contracts for LLM-Authored Workflows](https://arxiv.org/abs/2611.06967)
@@ -2060,6 +2180,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `rollback`
 - [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+- [HerAgent: Block-Level Checkpointing Harness for Environment Setup (arXiv 2611.18443)](https://arxiv.org/abs/2611.18443)
 
 ### `routing`
 - [GitHub Universe: Copilot app projects + computer use, shared Automations, Agentic Workflows GA, Copilot Fusion](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
@@ -2079,11 +2200,18 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `runner`
 - [Claude Code v2.1.311: timed-out shells say still running, honest restart/rewind/teleport messages, interrupt during MCP reads, runner hold-idle](https://github.com/anthropics/claude-code/releases/tag/v2.1.311)
 
+### `runtime-contracts`
+- [Beyond Prompts: Runtime Contracts for Coding Agents (arXiv 2611.19549)](https://arxiv.org/abs/2611.19549)
+
 ### `runtime-controls`
 - [guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems (arXiv 2611.15223)](https://arxiv.org/abs/2611.15223)
 
 ### `safety`
 - [DEPUTYBENCH: Evaluating Contextual Safety in Enterprise Agents (arXiv 2611.13355)](https://arxiv.org/abs/2611.13355)
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
+
+### `safety-liveness`
+- [LoopSkill evidence-bound lifecycle control + Loop Engineering (arXiv 2611.18573, 2611.18571)](https://arxiv.org/abs/2611.18573)
 
 ### `sandbox`
 - [Claude Code v2.1.305: MCP same-name replacement fix, journal-served workflow resume, no-LGTM with open findings](https://github.com/anthropics/claude-code/releases/tag/v2.1.305)
@@ -2111,6 +2239,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use (arXiv 2611.09113)](https://arxiv.org/abs/2611.09113)
 - [SideTaskBench: Measuring Unauthorized Side-Task Delivery in Coding Agents (arXiv 2611.14548)](https://arxiv.org/abs/2611.14548)
 - [guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems (arXiv 2611.15223)](https://arxiv.org/abs/2611.15223)
+- [When Tool Names Are Not Identities: MCP Provider Misbinding (arXiv 2611.21577)](https://arxiv.org/abs/2611.21577)
 
 ### `security-review`
 - [Snyk VulnBench 2.0: How Deterministic SAST and AI Security Agents Divide the Work](https://arxiv.org/abs/2610.38617)
@@ -2174,10 +2303,14 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `silent-failure`
 - [Claim Laundering: When Agent Decision Models Trust Records Over Reality (arXiv 2610.25947)](https://arxiv.org/abs/2610.25947)
 
+### `silent-loss`
+- [Testing Conversation Preservation Across LLM APIs / isloss (arXiv 2611.15543)](https://arxiv.org/abs/2611.15543)
+
 ### `skills`
 - [One Skill Takes Over: Clashing Agent Skills and a One-File Fix (SkillClash, arXiv 2610.25064)](https://arxiv.org/abs/2610.25064)
 - [Vibetrace: From Watching to Steering via execution traces (arXiv 2611.04466)](https://arxiv.org/abs/2611.04466)
 - [When Should Agents Remember? Falsification-Gated Self-Evolution (arXiv 2611.14326)](https://arxiv.org/abs/2611.14326)
+- [ACP session cursors RFD merged (#2114) + Agent Skills RFD/schema (#2818/#2822) + prompt suggestions (#2404/#2821)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2114)
 
 ### `small-step-automation`
 - [Cling: Human-Directed, In-Situ, Small-Step Automation (arXiv 2610.25879)](https://arxiv.org/abs/2610.25879)
@@ -2193,6 +2326,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `stale-state`
 - [EnvOS: Auditing Computer-Use Agents When the World Moves On](https://arxiv.org/abs/2610.40246)
+
+### `staleness`
+- [Experience Rot: Experienced Agents Fail Where Novices Succeed (arXiv 2611.20922)](https://arxiv.org/abs/2611.20922)
 
 ### `state`
 - [ACP PR #2510: Client handling of unknown v2 session states and tool statuses (+ #2509 timeline placement, #2508 cancel scope, #2523 cancellation stop reasons)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2510)
@@ -2225,9 +2361,13 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [ACP session/status liveness check RFD (PR #986, merged) + RFD PRs #2482 subagent model, #2485 token usage](https://github.com/agentclientprotocol/agent-client-protocol/pull/986)
 - [ACP #2786/#2787/#2788: background work tool calls, session content references, plan operation semantics](https://github.com/agentclientprotocol/agent-client-protocol/pull/2786)
 - [ACP subagents to Preview + #2801 unknown-state / no-invented-sender / no-guessed-session clarifications](https://github.com/agentclientprotocol/agent-client-protocol/pull/2801)
+- [Only as Safe as the Weakest Agent: multi-agent-only break (arXiv 2611.17520)](https://arxiv.org/abs/2611.17520)
 
 ### `subtasks`
 - [Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents (arXiv 2610.37224)](https://arxiv.org/abs/2610.37224)
+
+### `summary`
+- [Agents Cannot Hand Over What They Have Not Yet Understood (arXiv 2611.18642)](https://arxiv.org/abs/2611.18642)
 
 ### `supervision`
 - [Claude Code 2.1.287–2.1.289: Claude Mods + 'You should know' side agent](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
@@ -2270,6 +2410,8 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `testing`
 - [Mutation Testing for Multi-Agent Workflows (arXiv 2611.09895)](https://arxiv.org/abs/2611.09895)
+- [Testing Conversation Preservation Across LLM APIs / isloss (arXiv 2611.15543)](https://arxiv.org/abs/2611.15543)
+- [Anatomy of an Agent Harness: Decisions, Invariants and Corner Cases (arXiv 2611.19960)](https://arxiv.org/abs/2611.19960)
 
 ### `tests`
 - [Decision-Oriented Programming with Aporia (arXiv 2604.05203, revised)](https://arxiv.org/abs/2604.05203)
@@ -2291,6 +2433,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 ### `tool-calls`
 - [Episteme: Trustworthy Coding Agents Through Tool Call Intent](https://arxiv.org/abs/2611.06563)
 
+### `tool-change`
+- [Experience Rot: Experienced Agents Fail Where Novices Succeed (arXiv 2611.20922)](https://arxiv.org/abs/2611.20922)
+
 ### `tool-discipline`
 - [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689)
 
@@ -2302,6 +2447,7 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `tool-results`
 - [Stratum: Repository Memory for Coding Agents Beyond the Context Window (arXiv 2610.36153)](https://arxiv.org/abs/2610.36153)
+- [What LLM Agents See and What Users Say (arXiv 2611.17639)](https://arxiv.org/abs/2611.17639)
 
 ### `tool-state`
 - [Claude Code v2.1.314 (+ Codex 0.166.0): honest tool-call outcome states](https://github.com/anthropics/claude-code/releases/tag/v2.1.314)
@@ -2355,10 +2501,14 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `trajectories`
 - [Dependable Long-Horizon LLM Agents: Where Errors Enter and Which Controls Reach Them (arXiv 2611.13254)](https://arxiv.org/abs/2611.13254)
+- [Interpreting Coding Agents Through Their Behavioral Trajectories (arXiv 2611.17440)](https://arxiv.org/abs/2611.17440)
 
 ### `trajectory`
 - [Graphectory Viewer: process-centric agent trajectory graphs (arXiv 2608.17195, ASE '26 tool)](https://arxiv.org/abs/2608.17195)
 - [Agent ATO: interaction-timeline lanes from coding-agent logs (arXiv 2609.08301)](https://arxiv.org/abs/2609.08301)
+
+### `transcript`
+- [Claude Code v2.1.326: destructive Bash no longer summarized as read; looks-saved settings warn](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)
 
 ### `transparency`
 - [Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses (arXiv 2610.36114)](https://arxiv.org/abs/2610.36114)
@@ -2386,6 +2536,9 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ### `typestate`
 - [Concordat: Typed Sessions for LLM Agents (arXiv 2610.37461)](https://arxiv.org/abs/2610.37461)
+
+### `unattended`
+- [Claude Code v2.1.325: plan saved elsewhere with warning, 'couldn't check' honesty, ask-first unattended defaults](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)
 
 ### `understanding`
 - [Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development (arXiv 2611.08456)](https://arxiv.org/abs/2611.08456)
@@ -2441,12 +2594,16 @@ _Generated from 316 items. See `items.jsonl` / `corpus.db` for full fields._
 - [When Should Agents Remember? Falsification-Gated Self-Evolution (arXiv 2611.14326)](https://arxiv.org/abs/2611.14326)
 - [FlowPlan: Abstraction-Guided Planning and Verification for coding agents (arXiv 2611.13241)](https://arxiv.org/abs/2611.13241)
 - [Termination Lag: Coding Agents Solve Early but Stop Late (arXiv 2611.14960)](https://arxiv.org/abs/2611.14960)
+- [Do Verifier Judgments Survive Abstraction? Verification Transport (arXiv 2611.18471)](https://arxiv.org/abs/2611.18471)
 
 ### `verifier`
 - [Veritas: A Verifier Generation Harness for Agent Tasks (arXiv 2611.13336)](https://arxiv.org/abs/2611.13336)
 
 ### `verifiers`
 - [Recoverability and Verifier Strength: Preconditions for Unattended Agent Self-Improvement (arXiv 2610.27465)](https://arxiv.org/abs/2610.27465)
+
+### `version-binding`
+- [LoopSkill evidence-bound lifecycle control + Loop Engineering (arXiv 2611.18573, 2611.18571)](https://arxiv.org/abs/2611.18573)
 
 ### `visual-diff`
 - [Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents (arXiv 2611.16293)](https://arxiv.org/abs/2611.16293)
