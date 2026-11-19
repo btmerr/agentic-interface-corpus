@@ -1,8 +1,18 @@
 # Corpus index (by tag)
 
-_Generated from 335 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 343 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-19
+- [Truthgate: Checking Coding Agents Against a Record They Cannot Edit](https://arxiv.org/abs/2611.23335)
+- [Idempotency Is Not Recovery: A Fault-Injection Study of Language-Model Agent Tool Actions](https://arxiv.org/abs/2611.23353)
+- [MemoSync: Co-Managing Developer-Agent Metamemory Across Contexts](https://arxiv.org/abs/2611.24165)
+- [ACP #2883 failed permission request is not approval + #2881 replay excludes session-state updates + #2871 non-idle state after session/new](https://github.com/agentclientprotocol/agent-client-protocol/pull/2883)
+- [Claude Code v2.1.328: mcp_tool hooks fail closed, deferred tool resume can be disabled, lost/accidental permission answers fixed](https://github.com/anthropics/claude-code/releases/tag/v2.1.328)
+- [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](https://arxiv.org/abs/2611.24932)
+- [Intent Contracts: Taking Tools Away from Agents](https://arxiv.org/abs/2611.24025)
+- [Also-noted: Continuation Audits (2611.24491), Semantic Context Handoff (2611.24357), AHE-Beta (2611.24924), Timeout Cascades (2611.24324)](https://arxiv.org/abs/2611.24491)
 
 ### 2026-11-18
 - [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway (arXiv 2611.22971)](https://arxiv.org/abs/2611.22971)
