@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 343 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 350 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-20
+- [Characterizing and Detecting Unfaithful Work Reports by Coding Agents](https://arxiv.org/abs/2611.25760)
+- [Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)](https://arxiv.org/abs/2611.26553)
+- [ACP #2939 subagent sessions stabilized in v1 + #2930 explicit Reject binding + #2929 cancel scoped to foreground + #2926 no auto-resend after reconnect + #2927 replay_complete guarantees (open #2937 x-state/x-scope hints)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2939)
+- [Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents](https://arxiv.org/abs/2611.25599)
+- [CompAct-Bench: A Benchmark for Working-Context Compaction in Long-Horizon Agent Tasks](https://arxiv.org/abs/2611.25673)
+- [Claude Code v2.1.329 + Codex rust-v0.171.0: cut-off plans no longer shown as Rejected, /code-review says what it reviewed, late events don't cancel newer approvals](https://github.com/anthropics/claude-code/releases/tag/v2.1.329)
+- [Also-noted: Code Review Rules in Production (2611.25918), Forget Freely Grep Later (2611.25123), Held While Waiting (2611.26480), CANDID (2611.24977), Pandora's Toolbox (2611.25325)](https://arxiv.org/abs/2611.25918)
 
 ### 2026-11-19
 - [Truthgate: Checking Coding Agents Against a Record They Cannot Edit](https://arxiv.org/abs/2611.23335)
