@@ -1,8 +1,18 @@
 # Corpus index (by tag)
 
-_Generated from 350 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 358 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-23
+- [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://arxiv.org/abs/2611.27112)
+- [Exercised, Rarely Recovered: What Public Reports Say About Recovery in 50 AI Agent Harnesses and Runtimes](https://arxiv.org/abs/2611.27090)
+- [ACP v2 moves to Preview (#2961/#2962) + #2945 MUST report unknown for any session + #2943 parent-stopped child is cancelled + #2944 late answers SHOULD NOT restart cancelled work + #2950 (open #2971 work attribution RFD, #2942 steer/queue delivery)](https://github.com/agentclientprotocol/agent-client-protocol/pull/2961)
+- [Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks (SplitBench)](https://arxiv.org/abs/2611.27860)
+- [Do Senior Agents Do Their Job? Measuring Role Integrity in How LLM Agents Use Subordinate Material (RI-Bench)](https://arxiv.org/abs/2611.27139)
+- [Correct Precedents Induce Policy Violations in On-Device LLM Agents](https://arxiv.org/abs/2611.27216)
+- [Claude Code v2.1.330: worktree exit no longer deletes another session's worktree, approval notes survive failed tools, stopped subagents stay stopped, unanswerable rm gates refuse](https://github.com/anthropics/claude-code/releases/tag/v2.1.330)
+- [Also-noted: Omo (2611.27107), Epistemic Guard (2611.27095), developer/agent role split (2611.26668), OPCP runtime governance (2611.26966), HookEvo (2611.27294)](https://arxiv.org/abs/2611.27107)
 
 ### 2026-11-20
 - [Characterizing and Detecting Unfaithful Work Reports by Coding Agents](https://arxiv.org/abs/2611.25760)
