@@ -1,8 +1,18 @@
 # Corpus index (by tag)
 
-_Generated from 358 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 366 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-24
+- [ParseGap: Testing What Coding Agents Authorize and What Shells Execute (arXiv 2611.29546)](https://arxiv.org/abs/2611.29546)
+- [SchemaCaps: When a Compatible Tool Update Silently Widens an AI Agent's Authority (arXiv 2611.30750)](https://arxiv.org/abs/2611.30750)
+- [When Tools Fail, Agents Fabricate: Silent Failure and Verification-First Oversight in Tool-Using LLM Agents (arXiv 2611.28341)](https://arxiv.org/abs/2611.28341)
+- [Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub (arXiv 2611.28763)](https://arxiv.org/abs/2611.28763)
+- [ACP #2988 mcp/message attributed to session + toolCallId + #2978/#2974 plain text vs Markdown rendering + #2989 schema v2.0.0-beta.4](https://github.com/agentclientprotocol/agent-client-protocol/pull/2988)
+- [Consumer-Time Validity in Stateful AI Runtimes: Verifying Recovered State and Deferred Authority (arXiv 2611.29004)](https://arxiv.org/abs/2611.29004)
+- [Claude Code v2.1.331 + Codex rust-v0.172.0: rewind no longer deletes after failed restore, dropped subagent messages reported, PermissionDenied retry semantics, exec resume restores sandbox permissions, interrupted parent keeps child replies](https://github.com/anthropics/claude-code/releases/tag/v2.1.331)
+- [Also-noted: Useful but Unwieldy CoT messages (2611.30894), Airlock TEE sandboxing (2611.31010), AgentBouncer (2611.30621), Admitted Is Not Effective (2611.29727), DB agent damage (2611.30483), context-file map vs territory (2611.29916)](https://arxiv.org/abs/2611.30894)
 
 ### 2026-11-23
 - [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://arxiv.org/abs/2611.27112)
