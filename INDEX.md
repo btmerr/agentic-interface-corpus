@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 366 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 373 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-25
+- [When Answering Is Administering: Permission Replies That Rewrite Coding-Agent Policy (arXiv 2611.32195)](https://arxiv.org/abs/2611.32195)
+- [LLM Agent Authorization Across Context Compaction (arXiv 2611.32194)](https://arxiv.org/abs/2611.32194)
+- [Diffs Are Cheap, Show Me the Trajectory: An Empirical Study of Trajectory-Informed Code Review (arXiv 2611.31316) + Elephant-Goldfish design review (2611.32668)](https://arxiv.org/abs/2611.31316)
+- [Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls (arXiv 2611.31554) + Scoring Recovery-Time Agent Security (2611.31318)](https://arxiv.org/abs/2611.31554)
+- [Where is the Interface for the AI Harness? (arXiv 2611.31739) + Calm Agent: intermittent human attention (2611.32009)](https://arxiv.org/abs/2611.31739)
+- [Claude Code v2.1.332: compaction summary no longer shown as your prompt, declined calls not counted done, Remote Control waiting status, /permissions refuses dead rules, PreSkillShellCommand hook](https://github.com/anthropics/claude-code/releases/tag/v2.1.332)
+- [Also-noted: Per-Attack Blocking Hides Catalog Vulnerability (2611.31338), Below the Stopwatch (2611.31460), fork() for Agents (2611.31727), TimeTravelContainer (2611.32255), ShellBench (2611.32946), One Step Four Clocks (2611.31522)](https://arxiv.org/abs/2611.31338)
 
 ### 2026-11-24
 - [ParseGap: Testing What Coding Agents Authorize and What Shells Execute (arXiv 2611.29546)](https://arxiv.org/abs/2611.29546)
