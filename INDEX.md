@@ -1,8 +1,17 @@
 # Corpus index (by tag)
 
-_Generated from 373 items. See `items.jsonl` / `corpus.db` for full fields._
+_Generated from 380 items. See `items.jsonl` / `corpus.db` for full fields._
 
 ## By date
+
+### 2026-11-26
+- [The Detour Is the Danger: Preserving Security During LLM Agent Recovery (arXiv 2611.33605)](https://arxiv.org/abs/2611.33605)
+- [How Much Do Coding Agents Over-Edit, and Why? Unneeded Edits in Repository-Level Agent Patches (arXiv 2611.34875)](https://arxiv.org/abs/2611.34875)
+- [How Much Effort Does an AI Code Reviewer Need? Claude 5.5 Models on Plausible-but-Wrong Patches (arXiv 2611.33639)](https://arxiv.org/abs/2611.33639)
+- [When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction (arXiv 2611.33893)](https://arxiv.org/abs/2611.33893)
+- [Poisoning Self-Evolving Security Policies in LLM Agents (arXiv 2611.33385) + PRECEPT: Security Self-Improvement of Coding Agents via Evolving Principles (2611.33519)](https://arxiv.org/abs/2611.33385)
+- [Visual Studio Code 1.148: attention Inbox, shell passwords routed to the program not the model, unanswerable prompts cancelled, per-host sandbox profiles, Agent Host Protocol 1.1.0](https://code.visualstudio.com/updates/v1_148)
+- [Also-noted: SmartLens (2611.34377), AX context health (2611.33480), Copilot unified inline edit model (2611.33314), SkillsBench audit (2611.33943), black-box test selection (2611.34617), Pax (Pydantic), ACP #2997](https://arxiv.org/abs/2611.34377)
 
 ### 2026-11-25
 - [When Answering Is Administering: Permission Replies That Rewrite Coding-Agent Policy (arXiv 2611.32195)](https://arxiv.org/abs/2611.32195)
